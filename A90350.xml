@@ -1,0 +1,815 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The inseparable union between Christ and a believer, which death itself cannot sever, or, The bond that can never be broken opened in a sermon at the funeral of Mrs. Dorothy Freeborne, who was interred at Prittlewell in Essex on 24 of August, 1658 / by Thomas Peck ...</title>
+            <author>Peck, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 113 KB of XML-encoded text transcribed from 62 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90350</idno>
+            <idno type="STC">Wing P1039B</idno>
+            <idno type="STC">ESTC R29381</idno>
+            <idno type="EEBO-CITATION">11081139</idno>
+            <idno type="OCLC">ocm 11081139</idno>
+            <idno type="VID">153472</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90350)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153472)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1428:4 or 2366:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The inseparable union between Christ and a believer, which death itself cannot sever, or, The bond that can never be broken opened in a sermon at the funeral of Mrs. Dorothy Freeborne, who was interred at Prittlewell in Essex on 24 of August, 1658 / by Thomas Peck ...</title>
+                  <author>Peck, Thomas.</author>
+               </titleStmt>
+               <extent>[16], 102 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Parkhurst, and are to be sold at his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproductions of originals in the Harvard University Library (reel 1428) and Folger Shakespeare Library (reel 2366).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Freeborne, Dorothy, d. 1658.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153472:1"/>
+            <pb facs="tcp:153472:2"/>
+            <p>
+               <pb facs="tcp:153472:2" rendition="simple:additions"/> THE Inſeparable Union Between CHRIST AND A BELIEVER, Which Death it Self cannot Sever.</p>
+            <p>OR The Bond that can never be broken.</p>
+            <p>Opened in a Sermon at the Funeral of M<hi rend="sup">rs.</hi> 
+               <hi>Dorothy Freeborne,</hi> who was Interred at <hi>Prittlewell</hi> in <hi>Eſſex</hi> on 24. of <hi>Auguſt,</hi> 1658.</p>
+            <p>By <hi>Thomas Peck,</hi> M. A. And Preacher of Gods Word at
+<hi>Prittlewell.</hi>
+            </p>
+            <q>
+               <bibl>Ioh. 13. 1.</bibl>
+               <p>Having loved this own, which were in the world, he loved them to the end.</p>
+            </q>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <bibl>2 Tim. 2. 19.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Parkhurſt,</hi> and are to be ſold at his Shop at the Bible and three Crowns in <hi>Cheapſide</hi> near <hi>Mercers</hi> Chappel, and at the Bible on <hi>London</hi> Bridge
+1671.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:153472:3"/>
+            <pb facs="tcp:153472:3"/>
+            <head>To the truly Pious, and his much Honoured Friend Mr.
+<hi>Sa<g ref="char:EOLhyphen"/>muel Freeborne, S. P.</hi> wiſheth increaſe of Grace and fruition of Glory.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen you firſt view this Paper, I know you will be ſtricken with won<g ref="char:EOLhyphen"/>der what I aim at, or intend by it; but when you underſtand both the occaſion and end of this undertaking, you will (I doubt not) accept it with mildneſs and candour, and forgive my boldneſs in preſuming upon your Patronage, ſeeing I know not any, who hath a juſter right to it, than
+<pb facs="tcp:153472:4"/> yourſelf. The occaſion of making this Sermon (delivered by my Fa<g ref="char:EOLhyphen"/>ther at the funeral of your late reli<g ref="char:EOLhyphen"/>gious
+<note n="*" place="margin">Mrs. <hi>Do<g ref="char:EOLhyphen"/>rothy Free<g ref="char:EOLhyphen"/>borne.</hi>
+               </note> Conſort) publique was the deſire and ſolicitation of her two
+<note n="a" place="margin">Cap<g ref="char:EOLhyphen"/>tain <hi>Ri<g ref="char:EOLhyphen"/>chard</hi> and Captain
+<hi>William Goodlad.</hi>
+               </note> Sons, to whom I bare ſo ſingular a reſpect, and am ſo much ingaged, that I could not deny this their firſt, and ſo reaſonable re<g ref="char:EOLhyphen"/>queſt; nor ſhall deny any other, which is in my power to grant: this was the occaſion. The end of it is twofold, private and publique, and I hope both good. Private for the benefit of you and them, of your Family and theirs; by receiving the memory of ſo choiſe a Saint, who was a pattern of Piety in all her relations, more eſpecially in thoſe two, of a Wife and a Mother; whoſe example if her Children fol<g ref="char:EOLhyphen"/>low, they will manifeſt themſelves born again, and ſo to have a right to that Glory, which ſhe now poſ<g ref="char:EOLhyphen"/>ſeſſeth.</p>
+            <p>
+               <pb facs="tcp:153472:4"/> The publique end I aim at, is the Spiritual good of all thoſe, that ſhall read the Sermon with dili<g ref="char:EOLhyphen"/>gence, and Prayer to profit by it. This (the good of Souls) was, I am ſure, my Fathers chiefeſt end in Preaching it, and is mine alſo in Publiſhing it. His great care and deſign in his work (when ever God gave him opportunity) was to win Souls, and God was pleaſed to let him ſee of the travel of his Soul, the fruits of his labours, long be<g ref="char:EOLhyphen"/>fore he took him to himſelf; which was great comfort and ſatisfaction to him, upon his dying Bed. You know Sir, it was never his cuſtome or ambition, to interline his Ser<g ref="char:EOLhyphen"/>mons (eſpecially upon ſuch ſolemn occaſions as this) with much read<g ref="char:EOLhyphen"/>ing, nor yet to glaze them with much Rhetorick, well underſtanding, that the leaves of Antiquity would make but a weak Shield againſt the ſtroke of Death, and that the fine
+<pb facs="tcp:153472:5"/> flowers of Rhetorick would not be Armour of proof againſt the con<g ref="char:EOLhyphen"/>quering fears of the King of terrors. His manner was to Preach a cruci<g ref="char:EOLhyphen"/>fied Chriſt in a cracified ſtile, to hold faſt the form of ſound words, delivering the mind of God, in Scripture language, not in the in<g ref="char:EOLhyphen"/>ticing words of mans wiſdom; to ſee that his Doctrine was ſound, wholeſome, ſavoury, and edifying, not meerly notional, ſuited to mens corrupt humours; but well ground<g ref="char:EOLhyphen"/>ed on holy writ, and ſuited to the Souls of his hearers; which ſavours of a more divine-like ſpirit, than the light jingling of ſome, and ſpi<g ref="char:EOLhyphen"/>ritual bombeſt of other Preachers and Writers in our dairs.</p>
+            <p>Such as it was in the Pulpit, ſuch you have it from the Preſs, there is nothing added to adorn it, nor yet to enlarge it; ſomthing more there is, than was delivered, (time preventing him) yet nothing more,
+<pb facs="tcp:153472:5"/> than what I find in his own Notes. As to the dead, if any thing be added, tis but what he could have ſpoken of her, if occaſion had per<g ref="char:EOLhyphen"/>mitted; and but what all perſons who had the happineſs to know her, and be acquainted with her, will witneſs to be true; yea and ſay, that all that is written doth not ſet forth half of her Glory, the half of her excellency. The Charracter, which the Holy Ghoſt hath given of <hi>Abigall, 1 Sam.</hi>
+25. 3. May be
+<note place="margin">1 Sam. 25. 3.</note> given of her; ſhe was a woman of good underſtanding, and of a beautiful countenance. She was eminent for her Piety, Modeſty, Humility, Charity, and (which made her amiable in the eyes both of God and men) ſhe was adorned with the Ornament of a meek and quiet Spirit. So richly decked with all Chriſtian excellencies, that as
+<hi>Solomon</hi> ſpeaks of the Vertuous
+<note place="margin">Pro. 31. 10.</note> Woman, Prov. 31. 10. <hi>Her price <pb facs="tcp:153472:6"/> was far above Rubies;</hi> for what doth the wiſe man mention Com<g ref="char:EOLhyphen"/>mendable in Women, that was not found in her? <hi>She ſtretched out her</hi>
+               <note place="margin">Verſe 20.</note> 
+               <hi>hand to the Poor, yea ſhe reached forth her hand to the Needy. She opened her mouth with wiſdom, in</hi>
+               <note place="margin">Verſe 26.</note> 
+               <hi>her tongue was the Law of kindneſs. She looked well to the waies of her</hi>
+               <note place="margin">Verſe 27.</note> 
+               <hi>Houſhold, and eat not the bread of Idleneſs. Her Children riſe up, and</hi>
+               <note place="margin">Verſe 28.</note> 
+               <hi>call her bleſſed, her Husband alſo, and he praiſeth her. Many Daugh<g ref="char:EOLhyphen"/>ters have done Vertuouſly; but ſhe</hi>
+               <note place="margin">Verſe 29.</note> 
+               <hi>excelleth them all, and her own works praiſe her in the gates.</hi> But leſt,
+<note place="margin">Verſe 31.</note> while I mention her (though God hath been pleaſed to Compenſate your loſs in another Pious Conſort) I ſhould renew your grief, I for<g ref="char:EOLhyphen"/>bare, and only add my prayer to the God of all grace, to perfect his own work, begun in you, and to increaſe your graces, till you ſhall attain the meaſure of aſſurance, which ſhe en<g ref="char:EOLhyphen"/>joyed; <pb facs="tcp:153472:6"/> till you ſhall certainly know there is ſuch an Union betwixt Chriſt and your Soul, as death it ſelf ſhall never be able to looſe; that ſo when your work is finiſhed, and your graces perfected, according to the meaſure of that ſtature, which God hath appointed you in Chriſt Jeſus, here on Earth, You may go trium<g ref="char:EOLhyphen"/>phantly to Heaven, which is, and ſhall be the fervent deſire of</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your truly Reſpectful, and Loving friend. Samuel Peck.</signed>
+               <date>Auguſt 18. 1671.</date>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:153472:7"/>
+            <pb facs="tcp:153472:7"/>
+            <head>To his highly Reſpected Friends Captain <hi>Richard</hi> and Captain <hi>William Goodlad,</hi> S. <hi>P.</hi> wiſheth all increaſe of Spiritual and Temporal riches.</head>
+            <opener>
+               <salute>Worthy Friends,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I underſtood the deſire you had, that I would Publiſh, and let paſs into the eye of this Cenſorious age, this Sermon, Preached at the Funeral of your honoured Mo<g ref="char:EOLhyphen"/>ther (whoſe departure was much la<g ref="char:EOLhyphen"/>mented, and whoſe memory ſhall ever be bleſſed, ſo long as any ſurvive, who knew her worth) I did ſet my ſelf to Tranſcribe it for the Preſs. And
+<pb facs="tcp:153472:8"/> the rather, becauſe this might give me opportunity to make a thankful acknowledgement of your reſpectful, and more than ordinary favours to me. All that I can do, beſides, in requital, is to Counſel and intreat you to be followers of her, as ſhe was a follower of Chriſt, to endeavour after a further and greater knowledge of God and of his Son, whom to know is Life Eternal. All knowledge and all Sciences invented and reveal<g ref="char:EOLhyphen"/>ed by the wiſe men of the world with<g ref="char:EOLhyphen"/>out the knowledge of Jeſus Chriſt, by whom remiſſion of Sins, and Eter<g ref="char:EOLhyphen"/>nal happineſs is obtained, are vain and unprofitable. What doth it avail a man to know the height of the Hea<g ref="char:EOLhyphen"/>vens, the bredth of the Earth, the depth of the Sea, and the courſe and influence of the Stars, if in the mean time he is ignorant of God, and the weighty concernments of Eternity, and his Conſcience tells him he is un<g ref="char:EOLhyphen"/>worthy of the Earth, and without a <pb facs="tcp:153472:8"/> right to Heaven? Suppoſe a man could Compoſe and take a view, and have perfect knowledge of this Ter<g ref="char:EOLhyphen"/>reſtial Globe, and all things in it, and after that (as the Devil proffer<g ref="char:EOLhyphen"/>ed our Saviour) enjoy it and all the Kingdoms and Glory of it, for the time of his Life; if yet he were ignorant of heavenly things, and had not, by Chriſt, a title to a more en<g ref="char:EOLhyphen"/>during ſubſtance, he were of all men moſt miſerable; and in truth, knew
+<note place="margin">Si Chriſtum neſcis, nihil eſt ſi caetera ai ces; Si Chriſtum diſces nihil eſt ſi caetera neſcis.</note> nothing, enjoyed nothing. The know<g ref="char:EOLhyphen"/>ledge of Chriſt therefore is to be priz<g ref="char:EOLhyphen"/>ed and preferred, which only can make the ſouls of men truly happy; for the excellency of this knowledge, St. <hi>Paul counted all things but loſs and dung.</hi> The like eſteem (I hope)
+<note place="margin">Phil. 3 7, 8.</note> you have of all things here below, in compariſon of this divine and ſaving knowledge. You go down into the Sea in Ships, and ſee the wonders of the Lord in the deep; O! Let the wonderful Viſions which you be<g ref="char:EOLhyphen"/>hold, <pb facs="tcp:153472:9"/> and the wonderful deliverances, which you often receive, augment your awe of his dreadful Majeſty, and cauſe you to walk humbly and thankfully before him, undertake all in his name and for his glory, jo may you be aſſured of ſucceſs and inriching returns. Forget not, when you are in the depth of the Sea, with
+<hi>Jonah,</hi> to make your prayers to him; accompliſh and fullfil all your Vows and Promiſes made to the Almighty in times of danger and extremity; that ſo he may be your deliverer again in time of need. And when by his providence he Calls you
+<note place="margin">Swit. Chriſt. mans Call. 2. p. 477.</note> forth, to your Lawful employments, then do you (and all that Embark with you) take faith for your guide, Scripture for your Compaſs, an holy fear for your ſound<g ref="char:EOLhyphen"/>ing line, the Son of Righteouſneſs for your Loadſtar; Hope for your Anchor, the white linnen of the Saints imputed Righteouſneſs with a Red Croſs in it, of precious blood, for your Flagg, with this Motto,
+<q>
+                  <l>Save us Maſter or we Periſh.</l>
+               </q> 
+               <pb facs="tcp:153472:9"/> And I beſeech the God of the Sea and Dry Land, to be your continual Con<g ref="char:EOLhyphen"/>voy, his Spirit to be your Pilate in all your Courſes; that ſo at laſt, after all your tumblings and toſſings, hazzards and hardſhaps in the toubleſome Sea of this world, You may arrive with top and top gallant, richly laden with Spiritual good things, at the bleſſed harbour of everlaſting reſt, Heaven, and receive for your reward Love, Honour, and Glory for ever, and ever.
+<hi>Amen.</hi> So prayeth</p>
+            <closer>
+               <signed>Your obliged, Loving Friend, <hi>Samuel Peck.</hi>
+               </signed>
+               <date>Auguſt 18. 1671.</date>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:153472:10"/>
+            <pb n="1" facs="tcp:153472:10"/>
+            <head>The Inſeparable Union between Chriſt and a Believer,
+<hi>&amp;c.</hi> Opened from that Text</head>
+            <epigraph>
+               <bibl>ROM. 8. 38, 39.</bibl>
+               <q>For I am perſwaded, that neither Death, nor Life, nor Angels, nor Principalities, nor Powers, nor things preſent, nor things to come, nor Height, nor Depth, nor any other Creature, ſhall be able to ſeparate us from the Love of God, which is in Chriſt Jeſus our Lord.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>S among Pearls, which are all excellent, ſome excell others: So in Books of Holy Scrip<g ref="char:EOLhyphen"/>ture; as in the Old Teſtament, the
+<pb n="2" facs="tcp:153472:11"/> Book of the <hi>Pſalms,</hi> containing an Anotamy of the Soul: in the New Teſtament, after the divine Hiſtory of our Saviour, the Epiſtles, among the Epiſtles, St. <hi>Pauls,</hi> among St. <hi>Pauls,</hi> this, to the <hi>Romans</hi> is moſt excellent, which contains a metho<g ref="char:EOLhyphen"/>dical Catechiſe, wherein the grounds of Theology are laid down in moſt excellent order, As</p>
+            <p n="1">1. <hi>The miſery of man by nature.</hi>
+            </p>
+            <p n="2">2. <hi>The means of delivery, by Chriſt.</hi>
+            </p>
+            <p n="3">3. <hi>How man comes to be partaker of Chriſt, viz by faith, whereby he is juſtified in the ſight of God.</hi>
+            </p>
+            <p n="4">4. <hi>He ſhews that this man, that is thus juſtified, is alſo ſanctified.</hi> Chap. 6.</p>
+            <p n="5">5. <hi>That his Sanctification, though it be throughout; yet it is not ſo per<g ref="char:EOLhyphen"/>fect, but there is a remain of Cor<g ref="char:EOLhyphen"/>ruption in him, which doth much per<g ref="char:EOLhyphen"/>plex and diſquiet a Child of God, as the Apoſtle ſheweth in his own perſon.</hi> Chap. 7.</p>
+            <p n="6">
+               <pb n="3" facs="tcp:153472:11"/> 6. <hi>Here in this Chapter he makes an end of the point of Juſtification, and ſhews that though there remain Corrup<g ref="char:EOLhyphen"/>tion in Gods Children, yet ſeeing they walk not after it, but after the Spirit, it ſhall not prejudice their ſalvation,</hi> verſe 1.
+<hi>there is therefore now no Condemnation to thoſe that are in Chriſt Jeſus, who walk not aftr the fleſh, but after the Spirit.</hi>
+            </p>
+            <p>This eighth Chapter placed in the midſt of the Epiſtle, is called by ſome Divines a pleaſant knot of the Garden, or Paradice of God, for the faithful to delight themſelves in; a breaſt full of the milk of Conſolation, for ſuch as are born again to ſuck and be ſatisfied with: It conſiſts of three parts.</p>
+            <p n="1">1. <hi>The Firſt part contains matter of Conſolation, againſt the remainders of Sin and Corruption in us from</hi> 1. to 17. verſe.</p>
+            <p n="2">2. <hi>The Second affords true Conſo<g ref="char:EOLhyphen"/>lation againſt the manifold afflictions <pb n="4" facs="tcp:153472:12"/> to be endured in this Life,</hi> to the 29. and 30. verſe.</p>
+            <p n="3">3. <hi>The Third part is a Concluſion full of all Comfort, drawn from the immutable love of God in Chriſt to all the faithful, cauſing them to tri<g ref="char:EOLhyphen"/>umph like conquerours in the midſt of their tryalls,</hi> ver.
+28, 29. <hi>I am perſwaded that neither death—shall ſeparate us from the love of God, in Chriſt Jeſus our Lord.</hi>
+            </p>
+            <p>He whom God loves is happy, though he knows it not, he that knows God loves him, knows him<g ref="char:EOLhyphen"/>ſelf to be happy; this happy know<g ref="char:EOLhyphen"/>ledge our bleſſed Apoſtle had, which made him in his own name, and in the name of all the beloved of God, to make this glorious in<g ref="char:EOLhyphen"/>ſultation over all the enemies of his and their happineſs, that they could not ſeparate him or them from the love of God, which is in Chriſt Jeſus.</p>
+            <p>
+               <pb n="5" facs="tcp:153472:12"/> In the Words you have
+<list>
+                  <item>1. <hi>His and their Aſſurance.</hi>
+                  </item>
+                  <item>2. <hi>The ground of it.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. The aſſurance is of the immu<g ref="char:EOLhyphen"/>tability of Gods love to the faith<g ref="char:EOLhyphen"/>ful, from whoſe affection, nothing can make ſeparation; <hi>I am per<g ref="char:EOLhyphen"/>ſwaded that neither Death, nor Life,</hi> &amp;c.</p>
+            <p n="2">2. The ground of this aſſurance, becauſe the free love of God to the faithful is founded upon Chriſt Jeſus, whoſe merits are infinite, and whoſe efficacy is omnipotent, therefore Gods love is immutable and can ne<g ref="char:EOLhyphen"/>ver fail.</p>
+            <p>
+               <list>
+                  <head>In the firſt you have</head>
+                  <item>1. An enumeration of ſome par<g ref="char:EOLhyphen"/>ticulars (nine in number) which if any thing could ſeparate us from Gods love, it were likely to be ſome of theſe, which he nameth, either <hi>Death,</hi> or <hi>Life,</hi> or
+<hi>Principallities,</hi> &amp;c.</item>
+                  <item>2. Becauſe the Apoſtle could not <pb n="6" facs="tcp:153472:13"/> inſiſt in the induction, or bringing in of all particulars; he uſeth a general comprehenſive expreſſion of all things, that nothing might be excepted—<hi>Nor any other Creature.</hi>
+                  </item>
+                  <item>3. The certainty or fulneſs of St. <hi>Pauls</hi> perſwaſion, or aſſurance of faith concerning all theſe, that not any one of them can, nor all of them together ſhall be able to <hi>ſeparate us from the love of God:</hi> I am perſ<g ref="char:EOLhyphen"/>ſwaded, <hi>i. e.</hi> I am fully perſwaded of it, certainly certain of it and in<g ref="char:EOLhyphen"/>ſallibly ſure of it; and I here make it known to all the world; O <hi>Paul</hi> (ſaith one) great is thy faith.</item>
+               </list>
+               <list>
+                  <head>In the ſecond you have</head>
+                  <item>1. The perſons that are ſaid to be in Gods love, St.
+<hi>Paul,</hi> and all believers.</item>
+                  <item>2. The ground and foundation of all Gods love, which he bears and manifeſts to believers, Chriſt Jeſus.</item>
+                  <item>3. The ſpecial intereſt that the faithful have in Chriſt Jeſus, ſet <pb n="7" facs="tcp:153472:13"/> forth by a note of relation betwixt Chriſt and them—<hi>Our Lord.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>I am perſwaded, <hi>i. e.</hi> I am fully
+<note place="margin">The mean<g ref="char:EOLhyphen"/>ing of the words.</note> certain, by what I have heard out of Gods Word; I do not go by
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>S il. ex verbi predi<g ref="char:EOLhyphen"/>catione effe<g ref="char:EOLhyphen"/>caci ut indi<g ref="char:EOLhyphen"/>cat tacitè hos Verbo.</hi> Beza.—</note> thinkings and gueſſings, I am upon a ſure ground; it is not a morral Conjecture; but my faith and con<g ref="char:EOLhyphen"/>fidence, yea my full aſſurance of faith.—That
+<list>
+                  <item>1. <hi>Neither Death nor Life,]</hi> i. e. of the body; alſo all extreams of proſperity and adverſity, whereby we may be either allured or terrifi<g ref="char:EOLhyphen"/>ed.</item>
+                  <item>2. <hi>Nor Angels]</hi> good and bad ſpirits, if it were poſſible they ſhould concurr to ſeparate us from Chriſt Jeſus.</item>
+                  <item>3. <hi>Nor Principallities nor Powers]</hi> the power of Kings, Emperours, Popes, Tyrants throughout the whole world.</item>
+                  <item>4. <hi>Nor things preſent, nor things to Come,]</hi> all events good or bad, <pb n="8" facs="tcp:153472:14"/> which now or hereafter may befall us.</item>
+                  <item>5. <hi>Nor any other Creature]</hi> not any other thing Created, of what ſort ſoever, how great ſoever, or how terrible ſoever it may ſeem to us.</item>
+                  <item>6. <hi>Shall be able to ſeparate us from the love of God,)</hi> the love of God is to be taken here, as before, paſ<g ref="char:EOLhyphen"/>ſively, for the love wherewith he
+<note place="margin">Verſe 35.</note> loveth us.</item>
+                  <item>7. <hi>Which is in Chriſt Jeſus our Lord,)</hi> which God the father bears to us, and which comes to us in and through Chriſt Jeſus.—Thus you have the meaning of the words.</item>
+               </list>
+            </p>
+            <p>Now I come to the particular points in the Text, which are too many to be taken notice of at pre<g ref="char:EOLhyphen"/>ſent, it would be too much work for the ſhort time alloted for this Exerciſe: I ſhall therefore ſelect from the words two or three obſer<g ref="char:EOLhyphen"/>vations, which may beſt ſuit with
+<pb n="9" facs="tcp:153472:14"/> the ſad occaſion of our preſent meet<g ref="char:EOLhyphen"/>ing, and ſpeak to them as time ſhall give leave; and they are theſe.—
+<list>
+                  <item>Prop. 1. <hi>That a Chriſtian in this life may be perſwaded or aſſured that he ſhall be ſaved:—I am perſwaded,</hi> &amp;c.</item>
+                  <item>Prop. 2. <hi>That there is nothing in Heaven, Earth, or Hell, nothing that is now or ſhall be hereafter, can poſſibly ſeparate the faithful from the love and favour of God, which he bears to them in Chriſt Jeſus their Lord.—</hi>
+                  </item>
+                  <item>Prop. 3. <hi>That Death it ſelf, ſhall not be able to ſeparate a Believer from Gods love in Chriſt Jeſus.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>I begin with the firſt of theſe, <hi>viz. That a Chriſtian in this life may be perſwaded, or aſſured that he ſhall be ſaved.</hi>
+            </p>
+            <p>And here I muſt ſpeak ſomewhat for 1. <hi>Explication. 2. Probation.</hi>
+            </p>
+            <div type="commentary">
+               <pb n="10" facs="tcp:153472:15"/>
+               <head>1. For <hi>Explication.</hi>
+               </head>
+               <argument>
+                  <p>This aſſurance hath ſeveral deno<g ref="char:EOLhyphen"/>minations in Scripture;</p>
+                  <p>I. It is called knowledge, very often, 1 Joh, 3. 2. <hi>We know that</hi>
+                     <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 
+                        <hi>Scientia.</hi> 1 Joh. 3. 2. 14, 19, 24</note> 
+                     <hi>when he ſhall appear we ſhall be like him: So we know, that we are tran<g ref="char:EOLhyphen"/>ſlated from Death to Life,</hi> ver. 14. <hi>We know we are of the Truth,</hi> ver. 19. And <hi>we know that we are of God,</hi> ver. 24. <hi>So</hi> 1 Joh. 5. 19. and ſo 2 Cor. 5. 1. <hi>We know that if our Earthly houſe of this Tabernacle were diſſolved, we have a building of God,</hi> &amp;c.</p>
+               </argument>
+               <p>Now this knowledge is not a ſpe<g ref="char:EOLhyphen"/>culative knowledge, but an expe<g ref="char:EOLhyphen"/>rimental knowledge. A man can<g ref="char:EOLhyphen"/>not know he ſhall be ſaved, as he knows what Faith is, and what Re<g ref="char:EOLhyphen"/>pentance is; but it is obtained by long experience, by reflection of Conſcience and Faith upon our ſelves, whereby we evidently ſee that we are in a good and gracious eſtate, experimentally deſcerning
+<pb n="11" facs="tcp:153472:15"/> what God hath done for us; and that upon ſuch grounds as theſe; <hi>Being new creatures, walking in the light, walking after the Spirit, not after the Fleſh; loving the Brethren,</hi> and the like.—</p>
+               <p n="2">II. It is called a perſpicuous
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> manifeſtation, when Chriſt mani<g ref="char:EOLhyphen"/>feſts himſelf to the ſoul, that loves him, as not unto the world, Joh, 14. 21, 22, 23. <hi>He that loveth me ſhall be loved of my Father, and I will</hi>
+                  <note place="margin">Joh. 14. 21, 22, 23.—</note>
+                  <hi>manifeſt my ſelf unto him:</hi> and 22. ver. <hi>Lord how is it that thou wilt manifeſt thy ſelf unto us and not unto the world?</hi> Now this manifeſ<g ref="char:EOLhyphen"/>tation is Chriſts act, who being a free Agent may ſuſpend his own act, and withdraw himſelf; therefore this aſſurance may be interrupted, may be overclouded, and a child of God, of Light, may walk in darkneſs and ſee no light, <hi>Eſa.</hi> 5. 10.—</p>
+               <p n="3">III. It is called boldneſs, ſo tis uſually tranſlated, Heb. 4. 16. <hi>Let <pb n="12" facs="tcp:153472:16"/> us come boldly to the Throne of grace,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Fiducia.</hi> Heb.
+4. 16. Eph. 3. 12.</note> and Epheſ. 3. 12. <hi>In whom we have boldneſs and acceſs with Confidence.</hi> Now this boldneſs, is the boldneſs of faith, not of preſumption, it is an holy boldneſs, not an impudent boldneſs, it is a child-like boldneſs an undaunted, yet an humble duty<g ref="char:EOLhyphen"/>ful looking God in the face: there was this boldneſs of faith in the Wo<g ref="char:EOLhyphen"/>man in the Goſpel, in touching Chriſt, though She did not preſump<g ref="char:EOLhyphen"/>tuouſly croud upon him, as others did in the throng.</p>
+               <p n="4">IV. It is called full aſſurance, noting to us that it is gradual, not
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Prena certi<g ref="char:EOLhyphen"/>oratio</hi> Heb. 10. 22.</note> given all at once, but there is a growth in it, or a growing to it, by degrees. There may be aſſu<g ref="char:EOLhyphen"/>rance and a good meaſure of aſſu<g ref="char:EOLhyphen"/>rance, though there be not full aſſurance. All aſſurance is not of the higheſt degree, neither doth aſſurance in the higheſt degree ex<g ref="char:EOLhyphen"/>clude all doubting. Moſt think, as <pb n="13" facs="tcp:153472:16"/> long as they have doubts, they have ſo aſſurance; but they muſt know, that while they are here they ſhall know but in part; they ſhall be imperfect in the knowledge of Scrip<g ref="char:EOLhyphen"/>ture, which is their rule of trying, imperfect in the knowledge of their own obſcure and deceitful hearts, ſome ſtrangeneſs to God and them<g ref="char:EOLhyphen"/>ſelves there will ſtill remain, ſome darkneſs will overſpread the face of their ſouls. <hi>Obj. But why doth St.</hi> Paul <hi>call it a fulneſs of faith or a full aſſurance? Anſw.</hi> St. <hi>Paul</hi> calls it ſo
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n compariſon of lower degrees, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd not becauſe it is perfect, for if aſſurance were perfect, then alſo is our knowledge perfect, and our <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aith and ſome other graces perfect, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd if ſome, why not all? Perhaps
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ſome their certainty may be ſo <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reat, as to overcome all ſenſible <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oubtings, all ſenſible ſtirrings of
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nbelief, by reaſon of the ſweet <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd powerfull acts, and effects of <pb n="14" facs="tcp:153472:17"/> that certainty, and yet it doth not overcome all unbelief, or uncertain<g ref="char:EOLhyphen"/>ty ſo as to expell or nullifie them, but a certain meaſure of them re<g ref="char:EOLhyphen"/>mains ſtill: thus you ſee in what ſenſe it is called full aſſurance. It is called alſo ſometimes the full aſſurance of underſtanding, 2 <hi>Col.</hi> 2.
+<note place="margin">2 Col. 2. Heb. 6. 11. Heb. 10. 22.</note> Sometimes the full aſſurance of hope, <hi>Heb.</hi> 6. 11. Sometimes the full aſſurance of faith, <hi>Heb.</hi> 10. 22. Tis not theſe graces, but the fruit of them, for knowledge, Faith and Hope do all contribute their influ<g ref="char:EOLhyphen"/>ence, to the making up of this full aſſurance.</p>
+               <p n="5">V. It is called <hi>the hid Manna, the white ſtone with the new name,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, &amp;c. Rev. 2.
+17.</note> 
+                  <hi>that no man knoweth, but he that hath it, Revel.</hi> 2. 17. Firſt all be<g ref="char:EOLhyphen"/>lievers have it not, for ſome are weak believers, weak in faith: ſmoaking Flax, babes in Chriſt: this is the fruit of a ſtrong faith, a weak believer is not fit for it, <pb n="15" facs="tcp:153472:17"/> now can he make a good uſe of it, tis like a great Sail to a ſmall Veſſel. Secondly, tis the Crown after Con<g ref="char:EOLhyphen"/>queſt, <hi>to him that overcometh I will give,</hi> &amp;c. A man that hath fought and overcome ſhall have it; not as ſoon as he begins to fight, or at the ſecond Combate, but when he hath fought the battle and hath got the Victory, hath got the day of his Cor<g ref="char:EOLhyphen"/>ruptions, and ſoundly mortified, then is the time, when God gives it. And thirdly, tis a ſecret ſweet, known only to him that hath it.</p>
+               <p n="6">VI. Laſtly tis called a perſwaſion,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Perſwaſio.</note> ſo in the Text: <hi>I am perſwaded:</hi> and tis the perſwaſion of Faith: hence <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Faith hath its name, from perſwading, becauſe thereby the heart is perſwaded: Firſt God gives faith, perſwading the heart to believe, and then faith reflecting upon its own acts, and ſeeing it ſelf believing, doth perſwade the heart of Gods Love, and Union with <pb n="16" facs="tcp:153472:18"/> Chriſt, ſo conſequently of its own ſalvation.</p>
+               <p>Having thus opened the nature of this aſſurance, I come to the ſe<g ref="char:EOLhyphen"/>cond thing, the Confirmation of the point; to ſhew you that this certainty, this infallible perſwaſion or aſſurance may be attained to: and that I prove thus.</p>
+               <p n="1">1. Becauſe St. <hi>Paul</hi> and other Be<g ref="char:EOLhyphen"/>lievers, the Saints before us, have been aſſured of this, by ordinary Faith, this is clear, 2 <hi>Cor.</hi> 5. 1. To go no farther than this eighth to the <hi>Rom.
+15. 16. v.</hi> and the words of
+<note place="margin">2 Cor. 5. 1. Rom. 8. 15, 16.</note> my Text,
+<hi>I am perſwaded,</hi> a place for the proof of this point beyond all exception. Indeed the Papiſts ſay, this was a ſpecial revelation, St.
+<hi>Paul</hi> had of his own ſalvation, which is moſt injurious to the whole Text: for though he ſaith <hi>I am perſwaded,</hi> as ſpeaking of him<g ref="char:EOLhyphen"/>ſelf, yet in the matter of perſwa<g ref="char:EOLhyphen"/>ſion he joyneth all the faithfull,
+<pb n="17" facs="tcp:153472:18"/> as that nothing can ſeparate <hi>(us)</hi>
+                  <note place="margin">v. 39. &amp; ſo v. 35.</note> 
+                  <hi>v.</hi>
+39. ſpeaking generally of all, which is proved by many ſpeeches
+<note place="margin">v. 23. v. 35.</note> before. <hi>We grone for the redemp<g ref="char:EOLhyphen"/>tion of our body:</hi> did St. <hi>Paul</hi> only grone? and <hi>who ſhall ſeperate us from the love of God,</hi> was St. <hi>Paul</hi> only beloved? <hi>And we are killed all the</hi>
+                  <note place="margin">36.</note> 
+                  <hi>day long, and we are more than Con<g ref="char:EOLhyphen"/>querors,</hi> including all the faithful. Therefore 'tis a poor ſhift of the Papiſts; to ſay, St. <hi>Paul</hi> had this Certain perſwaſion of Gods love to him in Chriſt, by ſpecial revelati<g ref="char:EOLhyphen"/>on; for ſuch things as he had by re<g ref="char:EOLhyphen"/>velation 2 <hi>Cor.</hi> 12. 4. They were <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, things not to be ſpoak<g ref="char:EOLhyphen"/>en, but this perſwaſion of his he uttereth, and therefore it was none of thoſe ſecrets, which he had by ſpecial revelation. They ſay again the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ſignifies only a Conjectural perſwaſion, but this is contrary to themſelves, for they ſay he was certainly perſwaded of Gods <pb n="18" facs="tcp:153472:19"/> love by revelation: again the word indeed ſometimes ſignifies, a per<g ref="char:EOLhyphen"/>ſwaſion of Charity touching other particular perſons, and then it is not ſo certain; but when it is uſ<g ref="char:EOLhyphen"/>ed of a mans ſelf according to the word of God, it is then a perſwa<g ref="char:EOLhyphen"/>ſion of faith and moſt certain, and ſo it is here uſed by the Apoſtle.</p>
+               <p n="2">2. This aſſurance may be at<g ref="char:EOLhyphen"/>tained to, becauſe a Chriſtian may be certain of the promiſes, there<g ref="char:EOLhyphen"/>fore of the undeniable Concluſion from them; a Chriſtian may be certain of both promiſes. Firſt he may be certain that whom God loves with a ſpecial and an everlaſt<g ref="char:EOLhyphen"/>ing love ſhall be ſaved. That whoever is in Chriſt ſhall be ſa<g ref="char:EOLhyphen"/>ved, for he is the Saviour of his body; that whoever believes ſhall not periſh, but have everlaſting life; that whoever loves Chriſt in ſincerity ſhall be glorified. For eyes hath not ſeen, what God hath pre<g ref="char:EOLhyphen"/>pared <pb n="19" facs="tcp:153472:19"/> for them that love him: this is the voyce of the Goſpel, there<g ref="char:EOLhyphen"/>fore this we may be ſure of. Se<g ref="char:EOLhyphen"/>condly as a Chriſtian may know, that whoſoever is in Gods love, is in Chriſt, is a believer, ſhall be ſa<g ref="char:EOLhyphen"/>ved; ſo he may know, that he loves God, is in the love of God, that he is in Chriſt, is a believer, and conſequently be aſſured that he ſhall be ſaved. That a Chriſtian may know he is beloved of God, is in Chriſt, <hi>&amp;c.</hi> is evident from Scrip<g ref="char:EOLhyphen"/>ture. <hi>We know and believe, ſaith</hi> St. <hi>John, the love that God hath to us.</hi>
+                  <note place="margin">1 Joh. 4. 16. Rom. 5. 5.</note> 1
+<hi>Joh.</hi> 4. 16. So Rom. 5. 5. <hi>The love of God is ſhed abroad in our hearts;</hi> he may know that he is in Chriſt and Chriſt in him, <hi>we know that we dwell in him and he in us.</hi> 1 John
+<note place="margin">1 Joh. 3. 24.</note> 3. 24. That he doth believe. <hi>Mark 9. 24. I believe. 2 Tim. 1. 12. I know</hi>
+                  <note place="margin">Mark. 9. 24. 2 Tim. 1. 12.</note> 
+                  <hi>whom I have believed.</hi> He may know that he loves Chriſt Jeſus in ſince<g ref="char:EOLhyphen"/>rity
+<note place="margin">Joh. 21. 15, 16, 17.</note> 
+                  <hi>Joh.</hi> 21.
+15, 16, 17. If God hath <pb n="20" facs="tcp:153472:20"/> given a man the good things that accompany ſalvation, he may know it. 1 <hi>Cor.</hi> 2. 12. and conſequently be
+<note place="margin">1 Cor. 2. 12.</note> aſſured of his ſalvation.</p>
+               <p n="3">3. The Commands of believing and repenting, were in vain, eſpe<g ref="char:EOLhyphen"/>cially as the condition of the co<g ref="char:EOLhyphen"/>venant, if we could not know whether we performed them or not; to theſe, I might add many argu<g ref="char:EOLhyphen"/>ments more, As, that the Scriptures would never make ſuch a wide difference between the godly and the wicked, the Children of God and the Children of the Devil, and ſet forth the happineſs of the one, and the miſery of the other ſo large<g ref="char:EOLhyphen"/>ly, and make this difference to run through all the veins of its doctrine, if a man cannot know which of theſe two Eſtates he is in; Much leſs would the Holy Ghoſt urge us <hi>to give all diligence to make our Calling and Election ſure</hi> 2 Pet. 1. 10. if it
+<note place="margin">2 Pet. 1. 10.</note> could not be done; by making of <pb n="21" facs="tcp:153472:20"/> which ſure, we make our ſalvation ſure.</p>
+               <p>And to what purpoſe ſhould we be ſo earneſtly provoked and exci<g ref="char:EOLhyphen"/>ted to examine, prove, and try our ſelves whether we be in the faith or
+<note place="margin">1 Cor. 11. 28. 2 Cor. 13. 5.</note> no, whether Chriſt be in us or no, or whether we be reprobates or no? if it cannot be known, why ſhould we ſearch for that, which cannot be found? How can we obey thoſe precepts, which require us <hi>to rejoyce always in the Lord.</hi> Phil.
+<note place="margin">Phil. 4. 4.</note> 4. 4. <hi>To call God Father.</hi> Luk. 11. 2.
+<note place="margin">Luk. 11. 2. Pſal. 149. 1. 2, 3, 4.</note>
+                  <hi>to live in his praiſes</hi> Pſal. 149. 1. 2, 3, 4. to long for Chriſts coming <hi>Rev.</hi> 22.
+<note place="margin">Rev. 22. 20.</note> 20. to comfort our ſelves with the mention of it. 1 <hi>Theſſ.</hi> 4. laſt. which
+<note place="margin">1 Theſſ. 4. laſt.</note> are all conſequents of aſſurance, who can obey theſe precepts, per<g ref="char:EOLhyphen"/>forme theſe duties heartily, that is not in ſome meaſure aſſured that he is the Child of God? Again there are ſome duties which either the Saints only, or chiefly are com<g ref="char:EOLhyphen"/>manded <pb n="22" facs="tcp:153472:21"/> to do: as <hi>ſing unto the Lord all the Saints of his, and give thanks at the remembrance of his holineſs,</hi> Pſal. 30. 4. <hi>O love the Lord all yee</hi>
+                  <note place="margin">Pſal. 30. 4. Pſal. 33. 1, 2, 3. Pſ. 132.
+9.</note> 
+                  <hi>his Saints, and let the Saints ſhoot for joy.</hi> Pſal. 132.
+9. and how ſhall this be done if we cannot know that we are Saints?</p>
+               <trailer>Thus I have proved a certainty may be obtained, an infallible, though not a perfect certainty; ſuch as excludeth all deceit, though not all degrees of doub<g ref="char:EOLhyphen"/>ting.—I proceed now to the Application; and firſt I in<g ref="char:EOLhyphen"/>fer</trailer>
+            </div>
+            <div n="1" type="application">
+               <p>Uſe. 1. That if ſuch an aſſurance may be obtained, then that is a Po<g ref="char:EOLhyphen"/>piſh Error, which (according to the Cannons of the Councel of Trent) is that no man can have any aſſu<g ref="char:EOLhyphen"/>rance of his ſalvation in this life, otherwiſe then conjectural, unleſs it be made known to him by ſpe<g ref="char:EOLhyphen"/>cial revelation; nay they hold him <pb n="23" facs="tcp:153472:21"/> accurſed that teacheth a man may be thus aſſured. He that is a Papiſt indeed, is bound by the principles of his own Religion to be in ſuſ<g ref="char:EOLhyphen"/>pence of that to his dying day, with<g ref="char:EOLhyphen"/>out the knowledge of which a Chri<g ref="char:EOLhyphen"/>ſtian can never have any ſollid com<g ref="char:EOLhyphen"/>fort. We ſay a Chriſtian may doubt, and a true believer is often troub<g ref="char:EOLhyphen"/>led with doubtings, they ſay he muſt doubt, and 'tis a curſed He<g ref="char:EOLhyphen"/>reſy for a man to think he may have certainty: but we renounce this doctrine, as an enemy to faith and ſalvation, and to a Chriſtians com<g ref="char:EOLhyphen"/>fort and conſolation. <hi>Miſerable comforters are they all,</hi> as
+<hi>Job</hi> ſaid of his friends. <hi>Job</hi> 16. 2. for as in
+<note place="margin">Job 16. 2.</note> moſt of their doctrines they rob God of his glory, which is his choiceſt Jewel, ſo in this, they de<g ref="char:EOLhyphen"/>prive a Chriſtian of his aſſurance, which is his chiefeſt comfort. In which reſpect the teachers of this doctrine may be fitly reſembled to
+<pb n="24" facs="tcp:153472:22"/> thoſe Locuſts mentioned <hi>Rev.</hi> 9.
+<note place="margin">Rev. 9 7, 8, 9.</note> 7, 8, 9. they had faces like men; their doctrine in ſhew had no harm or danger in it; wolves in ſheeps clothing, of whom our Saviour bid you beware <hi>Mat. 10. 17. Mat.</hi> 24. 4, 5.
+<note place="margin">Mat. 10. 17. Mat. 24. 4, 5.</note>
+               </p>
+               <p>2. They have the haire of wo<g ref="char:EOLhyphen"/>men; their doctrines are inſinua<g ref="char:EOLhyphen"/>tive, and inductive to ſin, have many inticements to allure men to the liking of them, and to provoke to ſpiritual luſt and fornication.</p>
+               <p>3. They have Crowns of gold upon their heads; triple Crowns and Myters, they pervaile much, and have great reverence and au<g ref="char:EOLhyphen"/>thority where they come. But</p>
+               <p>4. They have tayles like Scorpi<g ref="char:EOLhyphen"/>ons, ſtings in their tayles, their doctrine is ſuch, that in the end it will wound the Soul and conſcience of him that receives it intollerably, they can never have found peace and comfort in their conſciences that receive it, and believe it.</p>
+               <p>
+                  <pb n="25" facs="tcp:153472:22"/> I might farther inlarge this uſe to the confutation, or rather repre<g ref="char:EOLhyphen"/>henſion, of ſome amongſt us, who renounce Popery and yet think this impoſſible and too high a point; ſuch as are no Papiſts; yet in this little better, condemning this do<g ref="char:EOLhyphen"/>ctrine as preſumption; for men to take upon them to know ſo much of Gods ſecrets, as to be aſſured they ſhall goe to Heaven when they dye, why this is an high preſump<g ref="char:EOLhyphen"/>tion. To whom I anſwer.</p>
+               <p n="1">1. Becauſe 'tis preſumption in you, is it ſo therefore in Gods Chil<g ref="char:EOLhyphen"/>dren? 'Tis preſumption indeed for men to ſay they ſhall be ſaved when they dye, and yet lye and live in their ſins.
+<hi>Jer.</hi> 3. 4. wilt thou cry
+<note place="margin">Jer. 3. 4, 5.</note> thou art my Father and yet doe evill as thou couldeſt? ſo if we ſay we have fellowſhip with him, and yet walk in darkneſs we lye. 1 <hi>Joh.</hi> 1. 6.
+<note place="margin">1 Joh. 1. 6.</note> ſuch may be ſure of their damnati<g ref="char:EOLhyphen"/>on, but not of their ſalvation in the <pb n="26" facs="tcp:153472:23"/> caſe they are in; for the Scripture ſaith expreſly ſalvation is far from them, and they ſhall not inherit Gods Kingdom 1 <hi>Cor.</hi> 6. 9. and theſe
+<note place="margin">1 Cor. 6 9.</note> evidences will come in ſtrongly againſt them at death and Judgment to their confutation and confuſion.</p>
+               <p n="2">2. To preſs to know that, which God hath ſecreted, and locked up in the inſearchable Cabinet of his own breſt, this were preſumpti<g ref="char:EOLhyphen"/>on: but to refuſe, or not to endea<g ref="char:EOLhyphen"/>vour to know that, which God hath commanded us to ſearch and find out, this is diſobedience, un<g ref="char:EOLhyphen"/>thankfulneſs and contempt. True it is, no man can of himſelf find out this ſecret, <hi>for the things of God know<g ref="char:EOLhyphen"/>eth no man, but the ſpirit of God.</hi> 1 Cor. 2. 11. but ſaith he <hi>Verſ.</hi> 12.
+<note place="margin">1 Cor. 2. 11<g ref="char:punc">▪</g> v. 12.</note> 
+                  <hi>we have received the ſpirit, that we might know the things that are freely given to us of God; and if any man have not the ſpirit of God, he is none of Chriſts.</hi> Thus much for this firſt uſe.</p>
+               <p>
+                  <pb n="27" facs="tcp:153472:23"/> Uſe. 2. It reproves thoſe, that ack<g ref="char:EOLhyphen"/>nowledge the truth in word, but deny it in deed, in practice; for they look not, ſeek not for it, as if it were not to be had; or at leaſt not worth having.</p>
+               <p>The Apoſtle <hi>Peter</hi> commands <hi>to give all diligence to make our calling and Election ſure</hi> 2 Pet. 1. 10. but
+<note place="margin">2 Pet. 1. 10.</note> they give no diligence this way, but are careleſs and negligent about it: and ſo much the more to be condemned is their ſupine careleſ<g ref="char:EOLhyphen"/>neſs to enſure their everlaſting E<g ref="char:EOLhyphen"/>ſtates, becauſe of their anxious carefulneſs to make ſure the things of this life, which are but for a moment. If men buy houſes or lands or take leaſes, or put out money, what a doe to make theſe things ſure? How many draughts of paper muſt there be? what ſcan<g ref="char:EOLhyphen"/>ning of words, and weighing of every clauſe as it were in a ballance, what conſulting of Lawyers, and
+<pb n="28" facs="tcp:153472:24"/> boxing up writings? But come to the point of their chief Inheritance, ask what evidence they have for Heaven, what aſſurance of their ſal<g ref="char:EOLhyphen"/>vation; and alas what wo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul un<g ref="char:EOLhyphen"/>certainties are men content to be at here? I hope well ſaith one, I truſt ſaith another, God is merciful ſaith a third, and I ſhall doe as well as others ſaith a fourth. Surely he that is no better enſured in world<g ref="char:EOLhyphen"/>ly matters then thus, I hope, and I truſt, is but a weak man and in a very poor caſe we think. Alas! that we ſhould be ſo Politick for our bodies, and ſo ſilly and ſimple for our Souls; that men ſhould ſeek ſo much to make that ſure, which they are ſure to forgoe, and ſeek after no aſſurance of their Eternal condition; unleſs it be to make their damnation ſure: as many wick<g ref="char:EOLhyphen"/>ed men, are as diligent about this, as the children of God are to make their ſalvation ſure; doing quite
+<pb n="29" facs="tcp:153472:24"/> contrary to theſe commands and councels in 2 <hi>Pet. 1.
+5. 2 Phil. 12. Heb.</hi>
+                  <note place="margin">2 Pet. 1. 5. 2 Phil. 12. Heb. 3. 15.</note> 3.
+15. theſe men are as far from faith and grace, as they are from the aſſurance of faith and grace; as far from ſalvation it ſelf as from the aſſurance of it: <hi>ſalvation is far from the wicked, for they ſeek not thy ſtatutes.</hi>
+               </p>
+               <p>2. Branch of this uſe is to re<g ref="char:EOLhyphen"/>prove thoſe, who, becauſe aſſurance may be had, and many of Gods children have it, think they have it too: Yea they that have none at all, pretend to it moſt of all, carnall men and hypocrites, who never rightly ſought it, nor are ſubjects rightly qualified for it, be<g ref="char:EOLhyphen"/>ing unhumbled, unbroken, impe<g ref="char:EOLhyphen"/>nitent, unbelieving, ſenſual not ha<g ref="char:EOLhyphen"/>ving the Spirit. All graces, and ſo aſſurance, how their counterfeits. <hi>Solomon</hi> ſpeaks of ſome boaſting of a falſe gift. <hi>Pro.</hi> 14. 25. ſo many boaſt
+<note place="margin">Pro. 14. 25. 2 Rom. 71. 23.</note> of aſſurance and have it not 2 <hi>Rom.</hi> 
+                  <pb n="30" facs="tcp:153472:25"/> 17. 23. thou makeſt thy boaſt of God and art confident, ſo many boaſt that God is their God, Chriſt their Saviour, and that God loves them with his ſpecial love, but their confidence is groundleſs, like that of <hi>Solomons</hi> foole <hi>Pro.</hi> 14. 16. and
+<note place="margin">Pro. 14. 16. Rev. 3. 17.</note> the
+<hi>Laodicean</hi> Angel <hi>Rev.</hi> 3. 17. and of theſe there are diverſe ſorts.</p>
+               <p n="1">1. Such as ſay they are perſwad<g ref="char:EOLhyphen"/>ed God loves them, and it ſhall goe well with them, and take it for granted 'tis ſo, becauſe their own hearts tell them ſo, and can give no other reaſon of their hope and per<g ref="char:EOLhyphen"/>ſwaſion, but this, my mind gives me ſo, <hi>&amp;c.</hi> But this perſwaſion is a deluſion of Satan and thy own deceitful heart, this perſwaſion comes not from the ſpirit of God, for then it would be grounded up<g ref="char:EOLhyphen"/>on the word of God; but ariſing meerly from thine own ſpirit with<g ref="char:EOLhyphen"/>out the word, it is a deluſion and a preſumption, no true perſwaſion <pb n="31" facs="tcp:153472:25"/> or aſſurance. <hi>Prov. 28. 26. he that</hi>
+                  <note place="margin">Pro. 28. 26.</note> 
+                  <hi>truſteth his own heart is a foole,</hi> for that is deceitful above all things, and is always a falſe Prophet, ſpeaking peace, when no peace is, and the falſe ſpirit works effectual<g ref="char:EOLhyphen"/>ly in the hearts of ſuch, this falſe aſſurance
+<hi>Luk.</hi> 11. 21.
+<note place="margin">Luk. 11. 21.</note>
+               </p>
+               <p n="2">2. Such as ſay they are aſſured becauſe they never doubted; they have always believed God loves them, and that they ſhall be ſaved, they never doubted of going to Heaven when they dye; they have ever taken it for an axiome never to be called in queſtion, or denyed that they ſhall be ſaved. Friends, this is a falſe aſſurance; for take this for an infallible truth, he that never doubted, never believed, and he that never believed, never had a ſound aſſurance of his ſalvation: true faith is accompanied with doubts, <hi>why art thou diſquieted and caſt down oh my Soul? Pſal.</hi> 42. 5. and
+<note place="margin">Pſa 42. 5.</note> 
+                  <pb n="32" facs="tcp:153472:26"/> 
+                  <hi>O thou of little faith wherefore doſt thou doubt.</hi> Mat. 14. 31. Aſſurance is ne<g ref="char:EOLhyphen"/>ver
+<note place="margin">Mat. 14. 31.</note> ſo perfect, as to exclude all doubting, at all times; St. <hi>Paul</hi> ſaith of himſelf, who had this aſſurance, <hi>without were doubtings, within were fears</hi> 2 Cor. 7. 5. that is, doubtings
+<note place="margin">2 Cor. 7. 5.</note> and infidelity; yea God who brings good out of evil, and light out of darkneſs, brings aſſurance out of doubtings and fears; for, firſt theſe doubtings and fears ſtir up a Chri<g ref="char:EOLhyphen"/>ſtian to be diligent in the uſe of means, whereby he may come to be aſſured. Yea ſecondly theſe doubts and fears doe uſe to end in true peace and ſound aſſurance as <hi>Davids</hi> did <hi>Pſal.</hi> 42. 5. and the laſt
+<note place="margin">Pſal. 42. 5. and laſt.</note> Verſe. whereas they that never had them and are thereupon confident of their good Eſtates, this falſe aſſu<g ref="char:EOLhyphen"/>rance of theirs will end in great fear<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and deſperate terrours
+<hi>Job.</hi> 18.
+<note place="margin">Job 14. 18.</note> 14. <hi>His confidence,</hi> ſaith <hi>Bildod, ſhall be rooted out of his Tabernacle, and <pb n="33" facs="tcp:153472:26"/> ſhall bring him to the King of terrours.</hi> If then thou thinkeſt thou art aſ<g ref="char:EOLhyphen"/>ſured becauſe thou never doubteſt, wondering at others full of doubts and fears in this reſpect, then know thy perſwaſion is a falſe perſwaſi<g ref="char:EOLhyphen"/>on, a falſe aſſurance; no aſſurance of Gods people, no aſſurance of faith, which doth not exclude all doubting.</p>
+               <p>It is a baſtard aſſurance, it was born and bred with thee,
+'tis a Coun<g ref="char:EOLhyphen"/>terfeit, a very deluſion of the Devil. And I may apply to thee, that ſay<g ref="char:EOLhyphen"/>ing of <hi>Eliphaz.</hi> Job 15. 31. <hi>let not</hi>
+                  <note place="margin">Job 15. 31.</note> 
+                  <hi>him that is deceived truſt in vanity, for vanity ſhall be his recompence:</hi> Your aſſurance thus built is but va<g ref="char:EOLhyphen"/>nity, and it ſhall have no other recompence but fruſtration and diſ<g ref="char:EOLhyphen"/>apointment.</p>
+               <p n="3">3. A third ſort are perſwaded God loves them, and ſo conſequent<g ref="char:EOLhyphen"/>ly that they ſhall be ſaved, becauſe God bleſſeth them with common <pb n="34" facs="tcp:153472:27"/> mercies, and it goes well with them in this life: they receive many teſtimonies of Gods love and favour towards them, as health, wealth, proſperity and a good name, like thoſe the Prophet
+<hi>Micah</hi> mentions. <hi>Micah.</hi> 3. 11. Or as <hi>Ephraim</hi> Hoſ.
+<note place="margin">Micah. 3. 11. Hoſ. 12. 8.</note> 12. 8.
+<hi>I am become rich, I have found me out ſubſtance, in all my labours they ſhall find no iniquity in me.</hi> But this is a falſe perſwaſion, or aſſu<g ref="char:EOLhyphen"/>rance, which is grounded only up<g ref="char:EOLhyphen"/>on the fruits of Gods common boun<g ref="char:EOLhyphen"/>ty, not of his ſpecial love and mer<g ref="char:EOLhyphen"/>cy; things that God gives to his very enemies, crums that are often caſt to dogs; and no man can know love or hatred by theſe things here below.</p>
+               <p n="4">4. A fourth ſort are perſwaded well of themſelves, and of their everlaſting Eſtates, becauſe their Neighbours, yea Miniſters and good people think well of them. Thus the Church of
+<hi>Laodicea,</hi> becauſe <pb n="35" facs="tcp:153472:27"/> well thought of by other Churches, thought well of her ſelf; and <hi>Judas</hi> (very like) thought his condition good, becauſe the reſt of the diſci<g ref="char:EOLhyphen"/>ples did ſo. But that aſſurance on<g ref="char:EOLhyphen"/>ly is good, that is built upon the word of God, not the word of man, they that reſt upon every bo<g ref="char:EOLhyphen"/>dies good word can aſſure them<g ref="char:EOLhyphen"/>ſelves of nothing but that heavy woe in <hi>Luk 6. 26. woe unto you,</hi>
+                  <note place="margin">Luk 6. 26.</note> 
+                  <hi>when all men ſpeak well of you:</hi> and therefore ſaith the Apoſtle. <hi>Gal.</hi> 6. 4.
+<note place="margin">Gal. 6. 4.</note> 
+                  <hi>let every man prove his own work, ſo ſhall he have rejoycing in himſelf and not in an other.</hi>
+               </p>
+               <p n="5">5. Another ſort that boaſt of falſe aſſurance, are falſe believers, tem<g ref="char:EOLhyphen"/>poraries, who having, by ſome common work of the ſpirit, ſome common gifts and graces wrought in them, ſome illumination, con<g ref="char:EOLhyphen"/>victions, joy in the word and ſome partial reformation, are preſently ſo full of aſſurance, that they have <pb n="36" facs="tcp:153472:28"/> not any doubts; and imagin they are able to judge and determine con<g ref="char:EOLhyphen"/>cerning others, whether they have grace or no. But 'tis a ſign of a bad building, that hath a weak, or no foundation; and it was a ſign <hi>Jacobs</hi> veniſon was not right, be<g ref="char:EOLhyphen"/>cauſe it was ſo quickly catched: ſo this aſſurance is too quickly gotten to be good, and for the moſt part comes to nothing; like
+<hi>Jonahs</hi> Gouard ſprong up in one night, and withered in another; or like the ſtony ground hearers, that recei<g ref="char:EOLhyphen"/>ved the word ſuddenly with joy, and for want of a depth of Earth, in time of temptation fell away. All theſe aſſurances which men boaſt of are falſe, and it apears by the fruits of them. By their fruits ye ſhall know them, ſaith our Saviour, of the falſe Prophets. <hi>Mat.</hi> 7. 20. So
+<note place="margin">Mat 7 20.</note> by their fruits ye ſhall know theſe falſe aſſurances, or perſwaſions, which make men never the better, <pb n="37" facs="tcp:153472:28"/> work no change in their lives; no care to pleaſe God, no fear to of<g ref="char:EOLhyphen"/>fend God; nay they work contrary effects; they harden mens hearts, and keep them from ſorrowing for ſin, <hi>Iſa. 57.
+10. thou ſaidſt not, there</hi>
+                  <note place="margin">Iſa. 57. 10.</note> 
+                  <hi>is no hope, therefore thou wert not grieved;</hi> nay they can commit very hainous ſins and never be troubled at them <hi>Pſal. 64. 4. they ſhoot in ſe<g ref="char:EOLhyphen"/>cret</hi>
+                  <note place="margin">Pſal. 64 4.</note> 
+                  <hi>at the perfect, yea ſuddainly doe they ſhoot at him and fear not, they incourage themſelves in an evil way.</hi> Farther this aſſurance they talk of doth inbolden them to commit ſin. <hi>Jer. 3. 4. didſt thou not cry, thou art</hi>
+                  <note place="margin">Jer. 3. 4.</note> 
+                  <hi>my Father? but they do evil more and more:</hi> And in <hi>Hoſ.</hi> 8. my God, we
+<note place="margin">Hoſ 8.</note> know thee; yet they have rejected the thing that is good. Now how many are there, whom Satan hath over thrown with this falſe perſwa<g ref="char:EOLhyphen"/>ſion, yet men and women will goe away with it, dreaming their caſe is good: let ſuch know, as true <pb n="38" facs="tcp:153472:29"/> aſſurance of ſalvation is a great mercy, ſo falſe aſſurance is one of the moſt grievous judgments, that can befal a man; in
+<hi>Iſa.</hi> 29. 9. when
+<note place="margin">Iſa. 29. 9.</note> the Lord had ſayd
+<hi>ſtay your ſelves and wonder,</hi> in <hi>v.</hi> 10. he adds
+<note place="margin">v. 10.</note> this to be the judgment they ſhould wonder at, the Lord hath covered you with a ſpirit of ſlumber, or hath powered upon you the ſpirit of a deep ſleep, he hath cloſed your eyes, Of the two it is far better to be vexed with continual fears, than to be lulled aſleep with a falſe aſſurance, for beſides that it keeps a man from ſeeking to God, it will not hold; but certainly faile a man when he hath moſt need of it, as <hi>Zophar</hi> ſaith in <hi>Job</hi> 11. 20. <hi>The eyes</hi>
+                  <note place="margin">Job 11. 20.</note> 
+                  <hi>of the wicked ſhall fail, and they ſhall not Eſcape, and their hope ſhall be as the giving up of the Ghoſt:</hi> that is, as the Soul and body part with great pain and horror, ſo ſhall he and his hope; as the Soul departs ſud<g ref="char:EOLhyphen"/>dainly,
+<pb n="39" facs="tcp:153472:29"/> ſo ſhall his hope leave him in a moment; and as the Soul re<g ref="char:EOLhyphen"/>turns not into the body any more in this life; ſo he and his hope take an everlaſting farewel each of other; his Soul and his hope depart to<g ref="char:EOLhyphen"/>gether, never to meet more; there<g ref="char:EOLhyphen"/>fore let me invert the words of the Apoſtle concerning true confidence <hi>Heb.</hi> 10. 35. and ſay concerning this,
+<note place="margin">Heb. 10. 35.</note> caſt it away, caſt away your confi<g ref="char:EOLhyphen"/>dence, for it ſhall have no recom<g ref="char:EOLhyphen"/>pence of reward. Thus much for this ſecond uſe, by way of repre<g ref="char:EOLhyphen"/>henſion.</p>
+               <p>III. Uſe. Let it ſerve in the laſt place for Exhortation. Is it ſo that a Chriſtian in this life may be per<g ref="char:EOLhyphen"/>ſwaded and aſſured he ſhall be ſa<g ref="char:EOLhyphen"/>ved, then let this perſwade and ſtir up us, to labour for this aſſu<g ref="char:EOLhyphen"/>rance: let us not run blundering on in an uncertain opinion, or a wavering hope; but ſtrive after this ſound perſwaſion, you have
+<pb n="40" facs="tcp:153472:30"/> heard 'tis attainable, others have actually injoyed it, and we are in<g ref="char:EOLhyphen"/>joyned to ſeek it, and if the fault be not our own, may obtain it, and to make you the more earneſt and diligent in the perſuit of it, conſider theſe motives briefly.</p>
+               <p n="1">1. <hi>Mot.</hi> Nothing elſe can be aſ<g ref="char:EOLhyphen"/>ſured, are not riches, honours, poſ<g ref="char:EOLhyphen"/>ſeſſions, relations, and all worldly injoyments uncertain? is there not vanity written upon them all, and are they not all ſubject to variati<g ref="char:EOLhyphen"/>on and loſs? ſuch uncertain beings they are, that the wiſe man ſaith <hi>they are not,</hi> Pro. 23. 5. they are but
+<note place="margin">Pro. 23. 5.</note> like a flock of birds in a mans yard, which he cannot call his own, for they ſoon take to themſelves wings and flee away; but whoſo is ſure of his ſalvation, ſure of the love of God and his intereſt in Chriſt, is ſure of that which he can never looſe; this is an abiding ſubſtance, an enduring inheritance, which the <pb n="41" facs="tcp:153472:30"/> iron teeth of time can never de<g ref="char:EOLhyphen"/>ſtroy, nor eternity it ſelfe wear out.</p>
+               <p n="2">2. <hi>Mot.</hi> 'Tis your indiſpenſable duty to labour to be aſſured of Gods love and your own ſalvation. God hath often charged his people to contend for the ſecurity and aſ<g ref="char:EOLhyphen"/>ſurance of their ſpiritual Eſtates. 2. <hi>Pet.</hi> 1. 10. 2 <hi>Cor.</hi> 13. 5. and in
+<hi>Heb.</hi>
+                  <note place="margin">2 Pet. 1. 10. 2 Cor. 13. 5. Heb. 6. 11.</note>
+6. 11. we deſire that every one of you doe ſhew the ſome diligence, to the full aſſurance of hope unto the end. And this commandment is for our good.</p>
+               <p n="3">3. <hi>Mot.</hi> This knowledge and cer<g ref="char:EOLhyphen"/>tainty is naturally deſirable. Eve<g ref="char:EOLhyphen"/>ry man would faine know things to come,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſpecially concerning them<g ref="char:EOLhyphen"/>ſelves. If there were a book writ<g ref="char:EOLhyphen"/>ten, that would tell men what ſhould certainly befal them in this world to their laſt breath, O how deſirous would people be to procure and read it? now is it ſo deſirable to
+<pb n="42" facs="tcp:153472:31"/> know our deſtiny, to heare and know prophecies, what ſhall hapen to us in this life? and is it not as deſirable to know and be aſſured what ſhall be our portion to all eternity, what we muſt truſt to and look for, what ſtate and place we muſt be in for ever? why there is a book will tell you this, the written word of God, and this you may know if you will labour for it.</p>
+               <p n="4">4. <hi>Mot.</hi> This certainty of our ſal<g ref="char:EOLhyphen"/>vation, as it is very deſirable, ſo beyond expreſſion comfortable. Though not the being, yet the well being, the comfort of a Chriſtian depends upon it: and if ever God beſtow this bleſſing of aſſurance upon thee (whatever thy condition be in the world) thou wilt account thy ſelf the happieſt man upon earth, therefore this full aſſurance is cal<g ref="char:EOLhyphen"/>led riches. <hi>Col.</hi> 2. 2. Riches ſerve to
+<note place="margin">Col. 2. 2.</note> make the life of man Comfortable, <pb n="43" facs="tcp:153472:31"/> and put a great deal of joy into mens hearts: So this riches of aſſu<g ref="char:EOLhyphen"/>rance makes the life of a Chriſtian comfortable, put that joy into the heart, that all the riches of the world cannot.
+<hi>Pſal.</hi> 4. 6. Now to
+<note place="margin">Pſal 4. 6.</note> ſhew you how ſweet and comfor<g ref="char:EOLhyphen"/>table this aſſurance will be, I might be very large; but may not, the time preventing me; taſt it a little briefly; what ſweet thoughts might<g ref="char:EOLhyphen"/>eſt thou have of God when thou art aſſured of his love and thine own ſalvation? All that greatneſs, jealouſy and Juſtice in God, which is the terror of others, will be matter of incouragment and joy to thee; as the Son of a King doth re<g ref="char:EOLhyphen"/>joyce in his fathers magnificence and power, which is the awe of ſub<g ref="char:EOLhyphen"/>jects and terror of rebels. When the thunder roars, the lightning flaſhes, the Earth quakes, and the ſignes of Gods dreadful omnipoten<g ref="char:EOLhyphen"/>cy appear; then thou canſt ſay, all <pb n="44" facs="tcp:153472:32"/> this is the effect of my Fathers power. So how ſweet may every thought of Chriſt be, of the blood that he hath ſhed, and the benefits he hath procured, be to thee, who haſt got this aſſurance? when thou canſt put thy finger into his ſide and ſay with <hi>Thomas,</hi> my Lord and my God, or as St. <hi>Paul,</hi> who loved me and gave himſelf for me; now the name of a Saviour will be a ſweet name indeed. Yea every paſ<g ref="char:EOLhyphen"/>ſage of the word will now afford the comfort; how ſweet will the promiſes be to thee when thou art aſſured they are thine own? the Goſpel will now be glad tydings indeed; the very threatnings will oc<g ref="char:EOLhyphen"/>caſion thy comfort, to remember thou haſt eſcaped them; thou wilt now cry with <hi>David, O how I love thy Law; it is ſweeter then the honey and the honey combe; it is better to me then thouſands of Silver and Gold;</hi> and wilt ſay with <hi>Luther,</hi> that thou wilt
+<pb n="45" facs="tcp:153472:32"/> not take all the world for one leaf in the Bible; and for the miniſtry of the word, thou wilt account their feet beautiful that bring the glad tydings of good things <hi>Rom.</hi>
+                  <note place="margin">Rom. 10. 15.</note> 10. 15. O, what ſweetneſs doth this aſſurance put into the ordinanes of God? Into prayer, when thou canſt ſay <hi>our Father,</hi> with full aſſurance, and knoweſt thou art welcome and accepted in Chriſt, and haſt a pro<g ref="char:EOLhyphen"/>miſe to be heard. Into the Sacra<g ref="char:EOLhyphen"/>ment? gives it a ſweet reliſh, makes it a feaſt of fat things, a refreſhing banquet indeed. This aſſurance will ſweteen every mercy to thee, yea multiply the ſweetneſs of every mercy, when thou art ſure they all proceed from love, and are the beginings and earneſt of everlaſting mercies: thou maiſt now take com<g ref="char:EOLhyphen"/>fort in them, and with <hi>David</hi> ſtile them loving kindneſſes and tender mercies, that come from the very bowels of a loving and tender Fa<g ref="char:EOLhyphen"/>ther;
+<pb n="46" facs="tcp:153472:33"/> thou wilt now take more comfort in a morſel of bread, then the worldling hath in the greateſt abundance of all things. Yea this aſſurance will make bitter things ſweet; afflictions, when thou know<g ref="char:EOLhyphen"/>eſt they are for thy profit, that God means thee no hurt by them, and will bring good to the out of them. <hi>Rom.</hi> 8. 28. It will make death
+<note place="margin">Rom. 8. 28.</note> it ſelf ſweet, which is called a bit<g ref="char:EOLhyphen"/>ter thing, a ſweet ſleep, the grave a ſweet bed, when thou art aſſured it ſhall not ſeperate thee from, but bring thee to the full injoyment of him who hath loved thee and dyed for thee; ſweet when you know the day of your deſolution, ſhall be the day of ſins deſtruction, the Souls abſolution, coronation and glorification: Oh labour for this aſ<g ref="char:EOLhyphen"/>ſurance which is ſo comfortable and will ſweeten to thee all things, and all conditions, mercies, promiſes, thretnings, duty, ordinances, affli<g ref="char:EOLhyphen"/>ctions, <pb n="47" facs="tcp:153472:33"/> loſſes, death it ſelf.</p>
+               <p n="5">5. <hi>Mot.</hi> This aſſurance as tis com<g ref="char:EOLhyphen"/>fortable, ſo very profitable. It will put life into all thy affections and graces: it will help thee to re<g ref="char:EOLhyphen"/>pent and melt over thy ſins, when thou knoweſt how dearly God lo<g ref="char:EOLhyphen"/>ved thee, even then, when thou didſt abuſe his mercy. It will in<g ref="char:EOLhyphen"/>flame thy heart with love to God, when thou knoweſt thy near rela<g ref="char:EOLhyphen"/>tion to him, and how tenderly af<g ref="char:EOLhyphen"/>fected he is to thee. <hi>Pſal.</hi> 18. 1, 2.
+<note place="margin">Pſal. 18. 1, 2. Pſal. 116. 1.</note>
+                  <hi>Pſal.</hi> 116. 1. It will quicken thy, deſires after him, it will confirm and ſtrengthen thy truſt in him <hi>Pſal.</hi>
+                  <note place="margin">Pſal. 46. 1, 2, 3.</note> 46. 1, 2, 3.</p>
+               <p>It will fill thy heart with thank<g ref="char:EOLhyphen"/>fulneſs, and heavenly mindedneſs, and exceedingly tend to thy per<g ref="char:EOLhyphen"/>ſeverance. It will put courage in<g ref="char:EOLhyphen"/>to thee in all thy works and duties, and make thee rejoyce to work righ<g ref="char:EOLhyphen"/>teouſneſs. It will be Oyl to the wheels and wind to the Sayles. With
+<pb n="48" facs="tcp:153472:34"/> what courage wilt thou run, when thou knoweſt thou ſhalt have the prize? and fight when thou know<g ref="char:EOLhyphen"/>eſt thou ſhalt conquer? and work, when thou knoweſt thy labour is not in vaine? and endure all things, when thou art aſſured of the re<g ref="char:EOLhyphen"/>compence of reward. Thus having heard thus much of aſſurance, me thinks every one of you ſhould de<g ref="char:EOLhyphen"/>ſire it; and inquire after the means to attaine it; which are briefly theſe; I ſhall but name them.</p>
+               <list>
+                  <item>1. Labour to be humbled, to ſee your ſin, and to ſorrow for it.</item>
+                  <item>2. Seek after faith in Chriſt, and the Spirit to renew and ſan<g ref="char:EOLhyphen"/>ctifie thee.</item>
+                  <item>3. Be much in ſelf examination, ſelf probation; to know thy ſelf, this aſſurance is called knowledge of our ſelves. 2
+<hi>Cor.</hi> 13. 5. and that thou maiſt not <pb n="49" facs="tcp:153472:34"/> be deceived in proving thy ſelf, let thy examination be;
+<list>
+                        <item>1. <hi>Frequent, and often,</hi>
+                        </item>
+                        <item>2. <hi>Regular, by the word.</hi>
+                        </item>
+                        <item>3. <hi>Painful and diligent.</hi>
+                        </item>
+                        <item>4. <hi>Conſtant and continued.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>4. Means is ſerious meditation, on the offers of the Goſpel, the promiſes of the Goſpel and perfor<g ref="char:EOLhyphen"/>mances of the Goſpel: meditati<g ref="char:EOLhyphen"/>on, on thee freeneſs of Gods mer<g ref="char:EOLhyphen"/>cy; the fulneſs of Chriſts merits, and the firmneſs of the covenant of grace.</item>
+                  <item>5. Diligently and skilfully im<g ref="char:EOLhyphen"/>prove thoſe notable aſſuring ordi<g ref="char:EOLhyphen"/>nances; the word, the Lords ſupper and prayer.</item>
+                  <item>6. Endeavour to keep a good conſcience and converſation towards God and men; this is an excellent means to obtain this aſſurance. For <pb n="50" facs="tcp:153472:35"/>
+                     <list>
+                        <item>1. This hath the promiſe of aſſurance
+<hi>Pſal.</hi> 50. 24. laſt Verſe.
+<note place="margin">Pſal. 50. 24.</note>
+                        </item>
+                        <item>2. This produceth aſſurance, as the cauſe, the effect <hi>Iſa.</hi> 32. 17.
+<note place="margin">Iſa. 32. 17.</note>
+                        </item>
+                        <item>3. St. <hi>Paul</hi> found this fruit of a good conſcience <hi>Act. 24. 15, 10. 2 Cor.</hi> 1. 12.
+<note place="margin">Act. 24. 15, 16. 2 Cor. 1. 12. Rom. 5.
+4.</note>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <p>6. Make uſe of experiences, for experience breeds hope and hope aſſurance <hi>Rom.</hi> 5. 4. The expe<g ref="char:EOLhyphen"/>rience you have of Gods good<g ref="char:EOLhyphen"/>neſs all your days, experience of Gods goodneſs to you in ſpiri<g ref="char:EOLhyphen"/>tuals. The experience of the fruits of Gods grace in you, take notice of all theſe, regiſter them, recal them, read them over and repeat them to thy Soul, and that for this very cauſe, becauſe expe<g ref="char:EOLhyphen"/>rience breeds hope, and that up<g ref="char:EOLhyphen"/>on this ground, becauſe though we be variable, yet Gods love
+<pb n="51" facs="tcp:153472:35"/> is unchangable; whom he once loves, he ever loves.
+<hi>Jam.</hi> 1. 17. Oh Chriſtians labour by theſe and all other means to attain this aſſurance, of Gods love and your own ſalvation, if you once have it, it will repay you for all your pains; and if once thou art aſ<g ref="char:EOLhyphen"/>ſured of Gods love, thou art aſ<g ref="char:EOLhyphen"/>ſured to be ſaved, for nothing can ſeparate thee from this love, nor deprive thee of this ſalvati<g ref="char:EOLhyphen"/>on. And ſo I paſs to the ſecond do<g ref="char:EOLhyphen"/>ctrine, where I muſt be more brief. The doctrine is this.—</p>
+            </div>
+            <div n="2" type="doctrine">
+               <head>Doct. 2. <hi>There is nothing in Heaven, Earth or Hell; nothing that now is, or ſhall be hereaf<g ref="char:EOLhyphen"/>ter can poſſibly ſeperate the faithful from the love and fa<g ref="char:EOLhyphen"/>vour of God, which he bears to them in Chriſt Jeſus, their Lord.—</hi>
+               </head>
+               <p>
+                  <pb n="52" facs="tcp:153472:36"/> Having loved his own he loves them to the end. <hi>Joh.</hi> 13. 1. but with
+<note place="margin">Joh. 13. 1.</note> what love? with an everlaſting love. <hi>Jer.</hi> 31. 3. with a love of an<g ref="char:EOLhyphen"/>tiquity
+<note place="margin">Jer. 31 3.</note> and perpetuity; to eterni<g ref="char:EOLhyphen"/>ty my love is the ſame. And it muſt needs be, that nothing can devide betwixt God and the faithful, or ſeparate them from his love; be<g ref="char:EOLhyphen"/>cauſe he hath made a covenat with them to be their God <hi>Jer.</hi> 31. 33.
+<note place="margin">Jer. 31. 33.</note> which he hath promiſed ſhall not fail: He hath betrothed and mar<g ref="char:EOLhyphen"/>ried them to himſelf, as his ſpouſe; and that not for a day, or for years and Ages, but for ever.
+<hi>Hoſ.</hi> 2. 19.
+<note place="margin">Hoſ. 2. 19.</note> now God is not a man, that he ſhould lye; he is not ſubject to change, no change in the world can make a change in him, <hi>Mal. 3. 6. I am</hi>
+                  <note place="margin">Mal. 3. 6.</note> 
+                  <hi>the Lord I change not,</hi> He can<g ref="char:EOLhyphen"/>not be unfaithful in his promiſe, now he hath promiſed love to his Children, he will never take it from them: <hi>the mountains ſhall depart and <pb n="53" facs="tcp:153472:36"/> the Hills be removed, but my kindneſs ſhall not depart from thee; neither ſhall the Covenant of my peace be removed, ſaith the Lord, that hath mercy on thee</hi> Iſa. 54. 10. Nor is there any imbe<g ref="char:EOLhyphen"/>cility
+<note place="margin">Iſa. 54. 10.</note> or weakneſs in God, his pow<g ref="char:EOLhyphen"/>er is infinite, therefore no creature in Heaven, Earth or Hell can pluck us from the love of God. <hi>Joh.</hi> 10. 29.
+<note place="margin">Joh. 10. 29.</note> The freeneſs of Gods love ſpeaks the perpetuity of it; he loves not upon external motives, not for any thing in the creature, but freely, and as nothing could move him to love, ſo nothing in the creature can move him to break off his love. His love is free, when we were ene<g ref="char:EOLhyphen"/>mies, he loved us; and 'tis fervent, a vehement flame; love as ſtrong as death, many waters cannot quench it, nor floods of water drown it; invincible love <hi>Cant.</hi> 8
+<note place="margin">Cant. 8. 6, 7.</note> 6, 7. Se what our Saviour ſaith of the fervency of Gods love to the faithful. <hi>Joh. 17. 23. and haſt loved</hi>
+                  <note place="margin">Joh. 17. 23.</note> 
+                  <pb n="54" facs="tcp:153472:37"/>
+                  <hi>them, as thou haſt loved me:</hi> God loves the faithful, his Children by adoption; as he loves Chriſt, his Son by Eternal generation; with the ſame love, though not with the ſame degrees of love: now nothing can hinder or break of Gods love from Chriſt his Son; he and his Father being one.
+<hi>Joh.</hi> 10. 30. and
+<note place="margin">Joh. 10. 30.</note> if not from Him, then not from them, for they alſo are one in him <hi>Joh. 17. 21. and thou haſt loved them</hi>
+                  <note place="margin">Joh. 17. 21.</note> 
+                  <hi>as thou haſt loved me</hi> ſaith our Sa<g ref="char:EOLhyphen"/>viour. This may ſerve for the proof of the point; now let me improve it briefly.—</p>
+               <p>Uſe. 1. If there be nothing in Heaven, Earth or Hell that can poſ<g ref="char:EOLhyphen"/>ſibly ſeparate the faithful, <hi>&amp;c.</hi> then this Doctrine affords matter of con<g ref="char:EOLhyphen"/>ſutation of thoſe, who hold that a Child of God may utterly fall away from Gods love; may to day be loved of God, and to morrow out of his love and favour; a moſt <pb n="55" facs="tcp:153472:37"/> uncomfortable Doctrine, directly oppoſite to Gods word, and the truth now delivered. It is grant<g ref="char:EOLhyphen"/>ed, that true believers may fall from, or looſe the ſenſe of Gods love, as the ſpouſe did <hi>Cant.</hi> 5. and
+<note place="margin">Cant. 5.</note> 
+                  <hi>David</hi> oft complains of Gods hide<g ref="char:EOLhyphen"/>ing his face, and the Church of Gods forſaking her
+<hi>Pſal.</hi> 77. 9. <hi>Pſal.</hi>
+                  <note place="margin">Pſal. 77. 9. Pſal. 88. 14. Pſal. 60.
+1.</note> 88. 14. and <hi>Pſal.</hi> 60. 1. but they were not ſeparated from the love of God: though the ſenſe and feel<g ref="char:EOLhyphen"/>ing of Gods love was ſeparated from them. Gods love is an ever<g ref="char:EOLhyphen"/>laſting, unchangable, invincible love; it is founded upon Chriſt; in Chriſt you are Elected; in Chriſt you are beloved, and in Chriſt all Gods promiſes are yea and amen, and 'tis Chriſt that makes interceſ<g ref="char:EOLhyphen"/>ſion for you continually. Can any thing ſeparate Chriſt from his Fa<g ref="char:EOLhyphen"/>thers love? then ſomething may ſeparate Gods Children from the love of their Father: no, God muſt <pb n="56" facs="tcp:153472:38"/> ceaſe to be himſelf, if he ceaſe to love his Children.</p>
+            </div>
+            <div n="1" type="objection">
+               <head>Object. 1. <hi>Though perſons cannot, though things cannot, though creatures cannot ſeperate,</hi> &amp;c. <hi>yet Sin may and doth,</hi> Iſa. 59. 2. <hi>Your iniquities</hi>
+                  <note place="margin">Iſa. 59. 2.</note> 
+                  <hi>have ſeparated between you and your God.</hi>
+               </head>
+               <p>
+                  <hi>Anſw.</hi> What ſeparation is there meant, the following words de<g ref="char:EOLhyphen"/>clare, your ſins have hid his face from you, that he will not hear: this (as I ſaid before) is only a ſe<g ref="char:EOLhyphen"/>paration from the ſenſe of Gods love, not from his love it ſelf. If raigning ſins could not hinder Gods love at firſt, <hi>Ezek 16. 8. when thou</hi>
+                  <note place="margin">Ezek. 16. 8.</note> 
+                  <hi>layeſt in thy blood I looked upon thee and ſaid behold, thy time is a time of love;</hi> then the ſins and failings and infirmities of Gods Children, when they are in the Eſtate of Gods <pb n="57" facs="tcp:153472:38"/> love and favour, cannot break of Gods love and favour from them, as we may ſee in the ſpouſe, <hi>David,</hi> St. <hi>Peter.</hi> ſo <hi>Rom.</hi> 5. 10.
+<note place="margin">Rom. 5. 10.</note>
+               </p>
+            </div>
+            <div n="2" type="objection">
+               <head>Object. 2. <hi>This doctrine breeds pre<g ref="char:EOLhyphen"/>ſumption, leaves no place for fear, for this doctrine being true, there is no cauſe of fear at all.</hi>
+               </head>
+               <p>
+                  <hi>Anſw.</hi> 1. whom God loves thus with an immutable love, them he makes fearful to offend him, and this fear is a principal means to pre<g ref="char:EOLhyphen"/>ſerve them from falling into ſin,
+<note place="margin">Jer. 32. 40.</note> 
+                  <hi>Jer. 32. 40. I will make an everlaſting covenant with them, that I will not turn away from them to do them good, but I will put my fear in their hearts, that they ſhall not depart from me.</hi>
+               </p>
+               <p>2. The belief and aſſurance of this, that nothing can ſeparate us from Gods love, breeds in a Child <pb n="58" facs="tcp:153472:39"/> of God, love to God again (we love him for loving us firſt) and an high eſteem of his love, that is ſo ſure and certain, and this cauſeth fear in the heart, a filial fear to of<g ref="char:EOLhyphen"/>fend ſo loving and ſo everloving a Father, which fear in Scripture is oppoſed to Carnal ſecurity and pre<g ref="char:EOLhyphen"/>ſumption.</p>
+               <p>3. It is falſe that ſuch as are be<g ref="char:EOLhyphen"/>loved of God, and know it, have no cauſe of fear; for though thoſe whom God loves, he loves to the end and will never diſinherit them or utterly caſt them of; yet if they be not fearful to offend him, though he love them, yet becauſe he loves them, he will chaſten them, as the Apoſtle ſpeaks <hi>Heb.</hi> 12. 6. and in
+<note place="margin">Heb. 12. 6.</note> what kind he will ſcourge them, and how long his rod ſhall lye up<g ref="char:EOLhyphen"/>on them, and how deeply he will wound them with laſhes, that the Lord only knows: therefore one beloved of God, and aſſured of his <pb n="59" facs="tcp:153472:39"/> love hath ſomewhat to fear beſides eternal damnation, he hath cauſe to fear with an Holy fear, leſt by ſin he diſpleaſe God his loving Fa<g ref="char:EOLhyphen"/>ther, and ſo provoke him to ſcourge him, not only in his body, but in his Soul and conſcience, as he did
+<hi>David,</hi> whoſe ſin put him to more grief and anguiſh in his Soul, than ever man felt that was wracked in his body to the breaking of his bones: it put him to ſuch a tor<g ref="char:EOLhyphen"/>ture, terror and anguiſh that he would have given his Kingdom to have been eaſed of it. <hi>Pſal.</hi> 51. 8.
+<note place="margin">Pſal. 51. 8.</note>
+               </p>
+            </div>
+            <div n="3" type="objection">
+               <head>Object. 3. <hi>But doth not the Scripture ſay</hi> Prov. 8.
+17. <hi>I love them</hi>
+                  <note place="margin">Prov. 8. 17.</note> 
+                  <hi>that love me? God con<g ref="char:EOLhyphen"/>tinues his love to us, if we continue our love to him: but if we ceaſe to love him, he may ceaſe to love us.</hi>
+               </head>
+               <p>
+                  <pb n="60" facs="tcp:153472:40"/> 
+                  <hi>Anſw.</hi> 1. For anſwer to this place, the meaning is this, It is Gods love to us that makes us love him, and doubtleſs he that loves us ſo, as to make us love him, cannot but love us when we doe love him.</p>
+               <p>2. It is denyed that a Child of God can ceaſe to love God, he may fall from ſome degrees of this love, he may looſe his firſt love, and looſe the exerciſe of this grace of love, but he cannot fall totally or finally from his love to God, much water cannot quench his love to God, nor can floods drown it: therefore ſome Interpreters make the words of my text to bear this ſenſe, nothing ſhall ſeparate us from the love we bear to God in Chriſt Jeſus; as well, as the former.</p>
+               <p>3. It is an idle dream that Gods love to us doth depend upon our love to him, and the continuance of it upon the conſtancy of our love to him, for ſo the love of God <pb n="61" facs="tcp:153472:40"/> ſhould be variable and changable, according to the change and alte<g ref="char:EOLhyphen"/>ration that is in us, which is con<g ref="char:EOLhyphen"/>trary to the Scripture. 1 <hi>Jam.</hi> 17.
+<note place="margin">1 Jam. 17.</note> and to the text, when the Apoſtle ſpeaks not conditionally, but poſſi<g ref="char:EOLhyphen"/>tively and Abſolutely, that nothing ſhall ſeparate us from the love of God in Chriſt Jeſus.</p>
+               <p>4. Such is the nature of Gods love, that as it is conſtant to his Children, ſo it is effectual in them to keep them continually in their love to him, ſo as it cannot be quite extinct, ſhaken out of their hearts, or quenched in them. <hi>Cant.</hi> 8. 6, 7.
+<note place="margin">Cant. 8. 6, 7.</note>
+               </p>
+            </div>
+            <div n="4" type="objection">
+               <head>Object. 4. <hi>But why are the faithful exhorted to continue in the love of God</hi> Joh. 15. 9.
+<note place="margin">Joh. 15. 9. Jude 21.</note> 
+                  <hi>ſo</hi> Jude
+21. <hi>keep your ſelves in the love of God, if there were no poſſibility of fal<g ref="char:EOLhyphen"/>ling from the love of God?</hi>
+               </head>
+               <p>
+                  <pb n="62" facs="tcp:153472:41"/> 
+                  <hi>Anſw.</hi> Some underſtand theſe places of Scripture, to ſpeak of the love of God and Chriſt to us; then they are exhortations to us, to take heed of doing any thing, whereby we provoke God to hide his face, to withold the ſenſe of his love from, and to frown upon us, for if we fall into ſin, as neg<g ref="char:EOLhyphen"/>ligence and ſecurity, 'tis the high way to looſe the ſenſe and fealing of the love of God, and to feel his anger and diſpleaſure againſt us, in ſo much that we may be brought to queſtion his love to<g ref="char:EOLhyphen"/>wards us: Or if you underſtand them of our love to God and Chriſt, then they are only incitations to quicken us to a growth and per<g ref="char:EOLhyphen"/>ſeverance in that grace of love.</p>
+               <trailer>Thus much for this firſt uſe.</trailer>
+            </div>
+            <div n="2" type="application">
+               <p>Uſe. 2. Is it ſo that nothing can ſeparate the faithful from the love, which God bears to them in Chriſt Jeſus their Lord; this then is ground <pb n="63" facs="tcp:153472:41"/> of abundant comfort, of firm, laſt<g ref="char:EOLhyphen"/>ing and everlaſting conſolation to all the faithful, who are intereſted in the ſpecial love of God in Chriſt Jeſus: that are in the Eſtate of Gods love, in the ſtate of grace (as divines call it) I call it the Eſtates of Gods love, in oppoſition to the Eſtate of Gods wrath, wherein we are all by nature, I ſay, this is mat<g ref="char:EOLhyphen"/>ter of unſpeakable comfort to all ſuch and that firſt.</p>
+               <p n="1">1. Againſt the fear of all ene<g ref="char:EOLhyphen"/>mies and evils whatever, none of them can ſeparate from Gods love. Poverty may take away thy wealth, ſickneſs thy health, diſgrace thy good name, death thy life, but none of theſe can take away Gods love from thee, that is unchangable, inſeparable love.</p>
+               <p n="2">2. It affords you comfort againſt the mutability of mens love, the love of great men, of Princes is mutable, <hi>Joſeph</hi> and
+<hi>Haman</hi> are eaſt <pb n="64" facs="tcp:153472:42"/> out of the Kings favour. The love of friends is changable, they may love to day and hate to morrow, yea more friends and familiars, who were wont to ſhew much love, may ſhew much hatred, of which <hi>David</hi> complaines, <hi>Pſal.</hi> 38. 11. and
+<note place="margin">Pſal. 38. 11. Pſal. 55. 12, 13.</note>
+                  <hi>Pſal. 55. 12, 13. that his equal, his Guide, and acquaintance, with whom he took ſweet council, he did reproach him and magnifie himſelf againſt him.</hi> And <hi>Job</hi> ſaith that his former friends did abhor him, and did not ſpare to ſpit in his face <hi>Job</hi> 30. 10. And
+<note place="margin">Job 30. 10.</note> have not we ſeen this in our days, friends not only ceaſing to be friends, but turning mortal, kil<g ref="char:EOLhyphen"/>ling enemies; now that which hath befallen others, may befal us, and if it doth; if thou art a Child of God, one whom God loves, thou haſt this to comfort thee, Gods love is not mutable as mans is. Though thou mayſt be caſt out of the love and favour of men, yet <pb n="65" facs="tcp:153472:42"/> thou canſt not be caſt out of the love and favour of God; though they ſeparate their love from thee and hate thee, yet they cannot ſe<g ref="char:EOLhyphen"/>parate the love of God from thee, nor cauſe him to hate thee; his love to thee, as it was from everlaſt<g ref="char:EOLhyphen"/>ing, ſo it is to everlaſting. <hi>Pſalm</hi> 103. 17. So that it is better to love
+<note place="margin">Pſal. 103 17.</note> the love of God, than the love of all the world; for the worlds love is mutable, but Gods love is Eter<g ref="char:EOLhyphen"/>nal.</p>
+               <p n="3">3. It affords you comfort againſt the ſeparability of all beloved and deſired comforts here below.</p>
+               <p n="1">1. Happily thou haſt a pleaſant habitation, and with it many deſi<g ref="char:EOLhyphen"/>rable accommodations, this is a com<g ref="char:EOLhyphen"/>fort: but thou maiſt be ſeparated from it, thou maiſt be driven from houſe and home, as thoſe worthys were in <hi>Heb. 11. who were driven in</hi>
+                  <note place="margin">Heb. 11.</note> 
+                  <hi>to dens and deſarts and caves of the Earth.</hi> But yet you cannot be ſe<g ref="char:EOLhyphen"/>parated <pb n="66" facs="tcp:153472:43"/> from the love of God in Chriſt Jeſus: when thou haſt not an houſe to put thy head in, thou haſt this love of God to warm thy heart in; thou canſt not be put out of Gods love, wherein thou dwelleſt. <hi>Pſal.
+90. 1. Lord</hi> (ſaith
+<note place="margin">Pſal 90. 1.</note> the Church) <hi>thou haſt been our dwel<g ref="char:EOLhyphen"/>ling place in all generations;</hi> that is, in all our ſojournings, and wand<g ref="char:EOLhyphen"/>rings, thy love and favour hath been our Harbour, ſhelter and protection. 1 <hi>Joh. 4. 16. We have</hi>
+                  <note place="margin">1 Joh. 4, 16.</note> 
+                  <hi>known and believed the love that God hath to us, God is love, and he that dwelleth in love, dwelleth in God and God in him.</hi> No matter where our dwelling be, in a Wood, in a Wilderneſs, in a Cave, in a Cot<g ref="char:EOLhyphen"/>tage, in a ſtrange Country, ſo long as we dwell in the love of God; nay though our dwelling be in a Priſon, a dungeon, yet we ſtill dwell in the love of God there, and that will make a Priſon, a Pal<g ref="char:EOLhyphen"/>lace, <pb n="67" facs="tcp:153472:43"/> a Paradiſe, a Garden of Joy.</p>
+               <p n="2">2. Probably thou haſt a loving wife, Husband, beloved children and other dear friends and rela<g ref="char:EOLhyphen"/>tions, theſe are comforts, choiſe comforts; but uncertain; thou maiſt be put to forſake Father, and Mo<g ref="char:EOLhyphen"/>ther, Wife and Children, to keep a good conſcience: But thou canſt not be ſeparated from Gods love. A Priſon, and Wilderneſs, a for<g ref="char:EOLhyphen"/>raign Land may ſeparate, and ſever thee from all theſe, but all theſe cannot ſeparate from the love of God in Chriſt Jeſus, thy Lord; wherever thou art and whitherever thou goeſt, God will be with thee, and will be better and ſweeter to thee, than Wife or Children, or any relations, yea then all relations: <hi>I will be with thee ſaith the Lord and will not leave thee nor forſake thee.</hi> Iſa. 43. 2, 4.
+<note place="margin">Iſa<g ref="char:punc">▪</g> 43. 2, 4.</note>
+               </p>
+               <p n="3">3. Thou haſt now ſweet ſociety with Gods people in his ordinances, <pb n="68" facs="tcp:153472:44"/> both publique and private commu<g ref="char:EOLhyphen"/>nion with them, this is a great com<g ref="char:EOLhyphen"/>fort; but thou maiſt be ſeparated from theſe too, where thou ſhalt ſcarce hear a Sermon, injoy a Sab<g ref="char:EOLhyphen"/>bath, have liberty to read a Chap<g ref="char:EOLhyphen"/>ter, or converſe with any of Gods Children; this is a ſad ſeparation indeed; <hi>woe is me ſaith David be<g ref="char:EOLhyphen"/>cauſe of this:</hi> and yet this cannot ſeparate thee from the love of God in Chriſt Jeſus. His love like wine will chear thee, when thou wanteſt the water-brooks of Gods Ordi<g ref="char:EOLhyphen"/>nances to refreſh thee: as it did <hi>John Baptiſt</hi> in the Iſle of <hi>Patmos, Paul</hi> and <hi>Syl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> in Priſon: <hi>Daniel</hi> when
+<note place="margin">Dan. 10. 11.</note> he was in
+<hi>Babylon,</hi> the Angel tells him he was a man greatly beloved. Thus when thou art in a dry and deſart Wilderneſs, ready to dye for thirſt after the waters of the ſan<g ref="char:EOLhyphen"/>ctuary, <hi>Gods</hi> love in Chriſt will then be a dew to thee, and as Rivers of waters in a dry place; it will be
+<pb n="69" facs="tcp:153472:44"/> hid Manna to thee and bread to eat, which the world knows not of.</p>
+               <p n="4">4. Poſſibly thou haſt a fair eſtate in Land, in money and movables, this is a comſort: but thou maiſt be ſeparated and ſequeſtred from that too, and made as poor as <hi>Job</hi> was by the plundring <hi>Caldeans</hi> and <hi>Sabeans.</hi> But ſtill theſe cannot ſe<g ref="char:EOLhyphen"/>parate thee from Gods love, which is better than riches, than Silver and Gold, than ſtock and Lands, better then all this worlds goods, and will put that joy into thy heart, when thou art without them, that they never could yeild to any man, injoying them in the great<g ref="char:EOLhyphen"/>eſt fulneſs. <hi>Pſal. 4. 6. Hab. 3. 17, 18.</hi>
+                  <note place="margin">Pſal. 4. 6. Hab. 3. 17, 18.</note>
+               </p>
+               <p n="5">5. Thou haſt a precious life, that men will give all they have for; but bloody perſecutors may take this away alſo: principalitys and powers, may ſeparate Soul and bo<g ref="char:EOLhyphen"/>dy, but neither Soul nor body from the love and favour of God, which <pb n="70" facs="tcp:153472:45"/> is better than life <hi>Pſalm</hi> 63. 3.
+<note place="margin">Pſal. 63. 3.</note>
+               </p>
+               <p n="4">4. This doctrine affords the com<g ref="char:EOLhyphen"/>fort againſt the loſs of the ſenſe and feeling of Gods love. A child of God may looſe the comfortable aprehenſion of his fathers affection, as <hi>David</hi> did
+<hi>Pſal.</hi> 51. 11, 12. and as
+<note place="margin">Pſal. 51. 11, 12. Cant. 5.</note> the ſpouſe did. <hi>Cant.</hi> 5. for her re<g ref="char:EOLhyphen"/>miſneſs and careleſneſs her beloved departed from her, and her bowels were troubled for him; and hence a child of God is apt to conclude (though by no good Logick) that God loves him not. But know for thy comfort, that thy want of feel<g ref="char:EOLhyphen"/>ing, and exerciſe of faith cannot ſeparate thee from Gods love; and though thy comfort be in the feel<g ref="char:EOLhyphen"/>ing, yet thy happineſs is in thy be<g ref="char:EOLhyphen"/>ing in Gods love; and thou always haſt Gods love, though not always the ſenſe of it. Yea God loves the as truely when he hides away his face from thee, as when he kiſſeth thee with the kiſſes of his mouth. <pb n="71" facs="tcp:153472:45"/> 
+                  <hi>Joh. 17. 23. thou haſt loved them, as</hi>
+                  <note place="margin">Joh. 17. 23.</note> 
+                  <hi>thou haſt loved me;</hi> now God loved Chriſt as dearly and truely when he hung upon the Croſs, torment<g ref="char:EOLhyphen"/>ed in Soul and body, crying out, <hi>my God, my God, why haſt thou for<g ref="char:EOLhyphen"/>ſaken me;</hi> as he did when he ſaid in a voyce from Heaven, <hi>this is my beloved Son, in whom I am well</hi>
+                  <note place="margin">Mat. 3. 17.</note> 
+                  <hi>pleaſed.</hi> The Sun ſhines as clearly in the darkeſt, as in the brighteſt day, the difference is not in the Sun, but in ſome clouds that interpoſing hinder the manifeſtations thereof. So Gods love is as hot and fervent to us when he clouds his face to<g ref="char:EOLhyphen"/>wards us, as when he ſhines in the brightneſs of his countenance up<g ref="char:EOLhyphen"/>on us. And thoſe cloudings, Chri<g ref="char:EOLhyphen"/>ſtians, are but for a time, not for ever, nay but for a moment, a little moment. <hi>Iſa. 54. 7. for a ſmall mo<g ref="char:EOLhyphen"/>ment</hi>
+                  <note place="margin">Iſa. 54. 7.</note> 
+                  <hi>have I hid my face from thee, but with great mercies will I gather thee.</hi> Though thou ſitteſt in darkneſs, yet <pb n="72" facs="tcp:153472:46"/> the Lord will be a light to thee; yea though thou fitteſt in darkneſs, dyeſt under a cloud, yet thou ſhalt be ſaved, and received to glory (becauſe God loves thee, not be<g ref="char:EOLhyphen"/>cauſe thou perceiveſt he loves thee) where thou ſhalt behold the beau<g ref="char:EOLhyphen"/>ty of his Holineſs without clouds or darkneſs to all eternity.</p>
+               <p n="5">5. This doctrine yeilds thee great comfort againſt the world of divi<g ref="char:EOLhyphen"/>ſions, that in theſe days are amongſt Chriſtians.</p>
+               <p>Chriſtians are divided and ſepa<g ref="char:EOLhyphen"/>rated one from another both in judgment and affection, and there<g ref="char:EOLhyphen"/>fore in affection, becauſe in judg<g ref="char:EOLhyphen"/>ment: not only their heads but their hearts are divided. Well, this may comfort us againſt this evil; For all that fear God and are called according to his pur<g ref="char:EOLhyphen"/>poſe, though they may be divi<g ref="char:EOLhyphen"/>ded and ſeparated one from another for a time, as <hi>Paul</hi> and <hi>Barnabas</hi> 
+                  <pb n="73" facs="tcp:153472:46"/> were, and many among the <hi>Corin<g ref="char:EOLhyphen"/>thians</hi> were, <hi>one ſaying I am of Paul, another I am of Appollo, and a third I am of Cephas,</hi> yet they can never be ſeparated nor divided from the love of God. Devils and Tyrants and Romiſh Achitophels, bad e<g ref="char:EOLhyphen"/>vents, and their own pride and paſ<g ref="char:EOLhyphen"/>ſions may ſeparate them one from another, but none of theſe can ſe<g ref="char:EOLhyphen"/>parate them from the love of God. And God continuing to love his people, will in time heal theſe di<g ref="char:EOLhyphen"/>viſions and make all thoſe that are his to be like minded, having the ſame love, being of one accord, of one mind. His love to them will ſet his wiſdom on work to find out a way to doe this; As his love ſet him on work to find out a way to reconcile the world of his Elect to himſelf by Jeſus Chriſt; ſo alſo to reconcile them one to another; and he hath many ways to doe this; and if nothing elſe <pb n="74" facs="tcp:153472:47"/> will doe it, his rod ſhall, for whom he loves he corrects, and his rod ſhall ſcourge them into union; as it did ſome of the martyrs in Q. <hi>Mary</hi>'s days, as
+<hi>Riddly</hi> and <hi>Hooper,</hi> though they could not agree in
+<hi>Edward</hi> 6. days, yet in Q. <hi>Mary</hi>'s time they agreed very well, ſaith Mr. <hi>Fox,</hi> they agree in black, in the Priſon; in red, in the fire; in white, in the Kingdom of Heaven. Thus you ſee what comfort this doctrine affords to the faithful in all conditions and Eſtates. Oh how ſhould this make you prize and eſteem the love of God above all things in the world; above riches, friends, favour of men, life it ſelf, which are all uncertain; Oh how ſhould this unchangable and eternal love of God in Chriſt Jeſus our Lord, make us grow out of love, yea into a loathing of all other things in compariſon of it, as St. <hi>Paul</hi> did.
+<note place="margin">Phil. 3. 8.</note> 
+                  <hi>Phil.</hi> 3. 8. Oh prize this love of God <pb n="75" facs="tcp:153472:47"/> above ten thouſand worlds; Take heed that you doe not abuſe it, by carnal ſecurity and wantonneſs; but let it make you more diligent in your work and more ſtudious of his glory; more careful to pleaſe him, more fearful to offend him, and let the frequent thoughts of it augment and increaſe your love to him; whom you can never love enough, nor fear enough, nor ſerve nor honour enough, for this great love of his to you, which made him ſend his own Son to dye in thy ſtead, to reconcile thee and bring thee into favour with himſelf, and ſo into a better and ſurer Eſtate of happineſs, than <hi>Adam</hi> had in innocency; from which wonderful, invincible and eternal love nothing ſhall be able to ſepa<g ref="char:EOLhyphen"/>rate thee, no not death it ſelf, <hi>I am perſwaded that neither death—ſhall ſeparate us;</hi> ſo I paſs to the third and laſt point, which is this,</p>
+            </div>
+            <div n="3" type="doctrine">
+               <pb n="76" facs="tcp:153472:48"/>
+               <head>Doct. 3. <hi>The death of the body cannot ſeparate believers from the love of God in Chriſt Jeſus.</hi>
+               </head>
+               <argument>
+                  <p>In the handling of this I ſhall be ſhort alſo. I ſay death it ſelf can<g ref="char:EOLhyphen"/>not ſeparate; by death here under<g ref="char:EOLhyphen"/>ſtand not only death it ſelf; but alſo all thoſe ſickneſſes and de<g ref="char:EOLhyphen"/>ſeaſes that goe before it; all the pains, terrors and tortures that ac<g ref="char:EOLhyphen"/>company it, or what ever may be<g ref="char:EOLhyphen"/>fall Gods Children at their death, cannot ſeparate them from the love of God in Chriſt Jeſus.
+<list>
+                        <item>1. Nothing that goes before death</item>
+                        <item>2. Nothing that accompanys death.</item>
+                     </list>
+                  </p>
+               </argument>
+               <p n="1">1. Nothing that goes before death can ſeparate them from Gods love.</p>
+               <p n="1">
+                  <pb n="77" facs="tcp:153472:48"/> 1. Sickneſs cannot, thoſe whom God loves, have ſickneſs, yea mor<g ref="char:EOLhyphen"/>tal ſickneſs as well as others, but this doth not ſeparate them from Gods love. <hi>Joh. 11. 3. He whom thou</hi>
+                  <note place="margin">Joh. 11. 3.</note> 
+                  <hi>loveſt is ſick.</hi> Not their Souls, for he knows their Soul in adverſity
+<hi>Pſal.</hi> 31. 7. not their bodies. <hi>Pſalm</hi>
+                  <note place="margin">Pſal. 31. 7. Pſal. 41. 3.</note> 41. 3. for God will ſtrengthen them upon their bed of languiſh<g ref="char:EOLhyphen"/>ing, and make their bed in their ſickneſs.</p>
+               <list>
+                  <item>2. Nothing that accompanies death can ſeparate them from his love.</item>
+               </list>
+               <p n="1">1. The terrors and horrors of death cannot. <hi>Pſal.
+23. 4. thou art</hi>
+                  <note place="margin">Pſal. 23 4.</note> 
+                  <hi>with me and thy rod and thy ſtaffe comfort me:</hi> ſo when <hi>David</hi> walk<g ref="char:EOLhyphen"/>ed in the Valley of the ſhaddow of death, he would not fear; when he was upon the borders of death, and walked ſide by ſide with this <pb n="78" facs="tcp:153472:49"/> King of terrours, yet <hi>David</hi> would not be daunted, but be confident, becauſe thou Lord art with me. Then terrours of death which are able to diſtract a man and ſeparate him from himſelf, could not ſepa<g ref="char:EOLhyphen"/>rate
+<hi>David</hi> from his God, thou art with me.</p>
+               <p n="2">2. The pains of death cannot, the faithful, who not only dyed, but ſuffered painful deaths. <hi>Heb. 11. were ſtoned to death, ſawn aſſunder,</hi> were yet the Lords worthys, dear and pretious in his ſight. <hi>Yea pre<g ref="char:EOLhyphen"/>tious in the ſight of the Lord is the death of all his Saints,</hi> whether it be a natural or violent death, an eaſy or a painful death.</p>
+               <p n="3">3. Death it ſelf cannot, which is a ſeparation of the Soul and bo<g ref="char:EOLhyphen"/>dy, yet neither of Soul or body from the Lords love; as living, ſo dying they are the Lords, both in their Souls and bodys. <hi>Rom.</hi> 14.
+8.
+<note place="margin">Rom. 14. 8.</note> that death it ſelf cannot ſeparate <pb n="79" facs="tcp:153472:49"/> the faithful from Gods love is evi<g ref="char:EOLhyphen"/>dent.</p>
+               <p n="1">
+                  <g ref="char:punc">▪</g>1 For firſt, the death of the body cannot break Gods covenant with his people, which is that he will not take away his love from them. <hi>Iſa.</hi>
+                  <note place="margin">Iſa. 54. 10. Pſal. 89. 33.</note> 54. 10.
+<hi>Pſal.</hi> 89. 33. the reaſon is be<g ref="char:EOLhyphen"/>cauſe the covenant is made with their whole perſons, God is in covenant with Soul and body too; therefore when death ſevers theſe, it ſeparates neither the one nor the other from Gods love. God is the God of <hi>Abraham</hi> of <hi>Abrahams</hi> duſt, of a belie<g ref="char:EOLhyphen"/>vers duſt, God loves the very duſt of his Saints. By this argument Chriſt proves the reſurrection of the body <hi>Mat.</hi> 22. 32. that God was the
+<note place="margin">Mat. 22. 32.</note> God of <hi>Abraham, Iſaac,</hi> and <hi>Jacob;</hi> the ground of the argument is, that God made his covenant not only with the Souls of the Partriarcks, but with their whole perſons.</p>
+               <p n="2">2. Death cannot ſeparate the faithful from Gods love, becauſe <pb n="80" facs="tcp:153472:50"/> they are in Chriſt Jeſus, loved in Chriſt, knit unto Chriſt, as mem<g ref="char:EOLhyphen"/>bers to the head, and this union is an inſeparable union, it remains for ever, nothing can violate it, no not death, therefore when they dye, they are ſaid to dye in the Lord. <hi>Rev.</hi> 14. 13. and when they are in their
+<note place="margin">Rev. 14. 13.</note> graves, they are ſaid to be dead in Chriſt, and to reſt and ſleep in him.</p>
+               <p n="3">3. Death cannot do this, for death is ours, our friend, on our ſide, at our ſervice, for us, not againſt us: all the paſſages of it are ours. 1 <hi>Cor.</hi> 1. 22. Nay death in ſo
+<note place="margin">1 Cor. 1. 22.</note> far from ſeparating the faithful from the Lord and his love, that it brings them home to the Lord, and to your full fruition of him and his love in Heaven: it brings them to the injoy<g ref="char:EOLhyphen"/>ment of him, who is love it ſelf, not only to kiſs him through the lattice, but to lye in the boſom of his love, to be infolded in the everlaſting armes of his love, to be pertakers of <pb n="81" facs="tcp:153472:50"/> all his love; and to be filled will all the fulneſs of God. <hi>Epheſ.</hi> 3.
+19.
+<note place="margin">Eph. 3. 19.</note> Death is ſo far from caſting a belie<g ref="char:EOLhyphen"/>ving Soul out of Gods love, that it lancheth him into the bottomleſs Sea of Gods love, the bredth and depth whereof paſſeth knowledge, and one drop whereof is more worth then all the Gold of Ophir, yea ſurpaſſeth all the glory of the world.</p>
+               <p n="4">4. Death cannot ſeparate the faithful from the ſenſe and feeling of Gods love, therefore much leſs from his love it ſelf; but uſually they have then the greateſt manifeſtations of his love to their Souls, 'tis then moſt ſtird abroad in their hearts by the Holy Ghoſt. When they are to drink this bitter Cup, God ſweetens it with the Wine of his love, which is better and ſweeter then life. Thus St. <hi>Stephen</hi> when he was dying ſaw Heaven open, beheld the glory of God and Chriſt ſtanding at Gods right hand. <hi>Act.</hi> 7. 55, 56. How fully
+<note place="margin">Act. 7. 55, 56.</note> hath God manifeſted his love to <pb n="82" facs="tcp:153472:51"/> ſome of his ſervants, at their death? of which I could give many in<g ref="char:EOLhyphen"/>ſtances. Mr. <hi>John Holland</hi> a memo<g ref="char:EOLhyphen"/>rable Saint, and a godly man, an emi<g ref="char:EOLhyphen"/>nent Miniſter of Chriſt, the day be<g ref="char:EOLhyphen"/>fore he dyed, did earneſtly call for a Bible, with theſe words come, come death approcheth, let us gather ſome flowers to comfort this heart, in this hour, and turning with his own hand to the 8. Chapt. to the Romans, he gave it to a Miniſter preſent, and bad him read, and at the end of every Verſe, Mr.
+<hi>Holland</hi> made a Pauſe, gave the ſenſe of it, and ſo continued his meditation and expoſition for two hours. On the ſuddain he ſaid to the Miniſter that was reading to him; O ſtay your reading, what brightneſs is that I ſee? have you lighted any Candles? to whom was anſwered, no it is the Sun ſhine; Sun ſhine, ſaith he! nay my Saviours ſhine, now farewel world, welcome Heaven, the Day-ſtar from on high hath viſited my heart. O ſpeak it <pb n="83" facs="tcp:153472:51"/> when I am gone, and Preach it at my funeral; God dealeth familiarly with men, I ſee his mercy, I ſee his Maje<g ref="char:EOLhyphen"/>ſty, whether in the body or out of the body, I cannot tell, but God knows, I ſee things unutterable. And a little before he dyed, raviſhed in Spirit, he raiſed himſelf up and ſhut up his bleſſed life with theſe bleſſed words; <hi>Oh what an happy change ſhall I make from darkneſs to light, from night to day, from death to life, from ſorrow to ſollace, from a ſinful world to an hea<g ref="char:EOLhyphen"/>venly Being. O my dear Brethren, Siſters and Friends, i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> pittys me to leave you be<g ref="char:EOLhyphen"/>hind; yet remember my death when I am gone, and what I now feel, I hope you ſhall feel ere you dye, that God doth and will deal familiarly with men. And now ye bleſſed Angels bear me, O bear me into the boſome of my beſt beloved, Amen, Amen come Lord Jeſus come quickly,</hi> and ſo fell aſleep in the Lord.—So Mr. <hi>Bolton</hi> boaſted at his death to a friend what he felt in his Soul; <hi>I am</hi> (ſaid he)
+<hi>by the wonderful mercies of <pb n="84" facs="tcp:153472:52"/> God, as full of comfort as my heart can hold, and feel nothing in my Soul but Chriſt, with whom I heartily deſire to be.</hi> So Mrs. <hi>Catherine Britterge,</hi> a Holly wo<g ref="char:EOLhyphen"/>man, ſaid at her death, <hi>O my ſweet Sa<g ref="char:EOLhyphen"/>viour, doſt thou ſo love me, who am but duſt and aſhes? O how wonderful, how wonderful is thy love; O thee joyes, the joyes that I feel in my Soul! they be wonderful, they be wonderful.</hi> Many like examples might be given of Saints dying as full of the ſenſe of Gods love, as heart could hold, and more then their tongues could ex<g ref="char:EOLhyphen"/>preſs; I ſhall inſtance but in one more; and it is in this pretious ſer<g ref="char:EOLhyphen"/>vant of Jeſus Chriſt, whoſe funerals we ſolemnize this day; her death did not ſeparate her from the ſenſe and feeling of Gods love, how ſweetly did ſhee apply the promiſes for her comfort; and in her greateſt weak<g ref="char:EOLhyphen"/>neſs, by the ſhength of her faith drow thoſe breſts of conſolation? which are then ſweeteſt when death is neareſt. How comfortably did <pb n="85" facs="tcp:153472:52"/> ſhe ſpeak to her Relations and friends weeping about her? deſi<g ref="char:EOLhyphen"/>ring them not to mourn for her, but to rejoyce rather, becauſe the time of her redemption was at hand; re<g ref="char:EOLhyphen"/>demption from ſin, from ſorrow, from ſickneſs and pain which ſhe had long ſuffered. What a plerophory and full perſwaſion ſhe had of her ſalva<g ref="char:EOLhyphen"/>tion and future happineſs, appears by her words to my ſelf, which were theſe, <hi>I know in whom I have believed, and will not caſt away my confidence;</hi> And alſo by her laſt, and remarkable words to her dear and diſconſolate Husband, which ſhe uttered a little before ſhe breathed out her Soul in<g ref="char:EOLhyphen"/>to the boſom of her beſt beloved (al<g ref="char:EOLhyphen"/>luding to the words of her Saviour) ſhe ſaid <hi>I goe to my Father and thy Fa<g ref="char:EOLhyphen"/>ther to my God and thy God.</hi> By all theſe inſtances you may ſee, death can<g ref="char:EOLhyphen"/>not ſeparate a believer from the ſenſe of Gods love, much leſs from his love. Thus you have the doctrinal part: a few words by way of Application.</p>
+               <p>
+                  <pb n="86" facs="tcp:153472:53"/> 
+                  <hi>Uſe.</hi> 1. If death cannot ſeparate the faithful from the love of God, th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s then is a ſweet comfort to Gods Children againſt the fear of death; of what ſort ſoever, in what manner ſoever. Though there be many ſe<g ref="char:EOLhyphen"/>para<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ons in death terrible to fleſh and blood, dreadful to nature, as</p>
+               <p n="1">1. It is a ſeparation from our dear friends and relations, from husband, wife and children, from Father and Mother, death plucks us from all theſe at once, this is dreadful to na<g ref="char:EOLhyphen"/>ture; but yet no ſeparation from Gods love: It only takes us from friends on Earth to friends in Hea<g ref="char:EOLhyphen"/>ven, it brings us to the general aſſem<g ref="char:EOLhyphen"/>bly of the firſt born, to Jeſus the media<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our, to Angels and the Spirits of juſt men made perfect; So that by this ſeparation we doe but change our place, not our company, and our faithful friends, which we leave be<g ref="char:EOLhyphen"/>hind us, ſhall ſhortly follow after us, co<gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to us and we and them ſhall ever be with the Lord.</p>
+               <p n="2">
+                  <pb n="87" facs="tcp:153472:53"/> 2. The death of the body is a ſe<g ref="char:EOLhyphen"/>paration from all our Earthly com<g ref="char:EOLhyphen"/>forts, from all our worldly injoy<g ref="char:EOLhyphen"/>ments, and accommodations, and this is uncomfortable to nature too: He that hath Houſe and Land, Money and Stock, flocks and heards, riches and honours, high dignities and great preferments in the world, muſt take a final farewel of all theſe when death comes. The Fool and his full Barns, rich ſtores and goods for many years, muſt ſuddenly and ever laſting<g ref="char:EOLhyphen"/>ly part when death aproacheth; and this is ſad to him that hath nothing in ſtore in another world. But ſuch a ſeparation is not terrible or un<g ref="char:EOLhyphen"/>comfortable to a Child of God, be<g ref="char:EOLhyphen"/>cauſe he is aſſured, though theſe things leave him, yet God loves him, which is better to him then all the comforts of life, and will bring him, ever by death, to better com<g ref="char:EOLhyphen"/>forts, to a building, an houſe in Hea<g ref="char:EOLhyphen"/>ven, to inherit all things, to a rich and glorious purchaſe, to an everlaſt<g ref="char:EOLhyphen"/>ing
+<pb n="88" facs="tcp:153472:54"/> Kingdom, to joyes unſpeakable, felicity inconcevable and to Rivers of pleaſures at Gods right hand for evermore.</p>
+               <p n="3">3. The death of the body is the ſeparation of the Soul from thee bo<g ref="char:EOLhyphen"/>dy; which is moſt terrible to na<g ref="char:EOLhyphen"/>ture: that the body and Soul, theſe old friends muſt now part, the body to return to the duſt as it was, and the Soul to God that gave it, and Oh with what bitterneſs, with what throbs and groans with what ſighs and tears, with what pangs and pains do theſe long and intimate acquain<g ref="char:EOLhyphen"/>tance uſually part? But though death part Soul and body, yet neither the Soul nor the body of a Saint from the love of God <hi>Pſal. 116. 15. Pre<g ref="char:EOLhyphen"/>tious</hi>
+                  <note place="margin">Pſal. 116. 15.</note> 
+                  <hi>in the ſight of the Lord is the death of all his Saints.</hi> A poor Child of God lying upon his death bed be<g ref="char:EOLhyphen"/>moans himſelf, his friends alſo grieve and mourn for him, and in the ſight of the world he is in a grievous and miſerable Eſtate; but in the ſight <pb n="89" facs="tcp:153472:54"/> and eſtimation of God his death is very pretious and dear, the Lord loves him, loves his Soul in its ſe<g ref="char:EOLhyphen"/>paration from the body, and receives it as a pretious Jewel into the very beſome of his love; He loves his dead body, yea his very duſt and will raiſe it again out of the duſt to glory at the laſt day. And as the death of a Saint is pretious to God, ſo 'tis very gainful and advantagious to the Saint himſelf for</p>
+               <p n="1">1. It ſeparates him from all his ſins, corruptions, impurities, imperfe<g ref="char:EOLhyphen"/>ctions, from his body of death.</p>
+               <p n="2">2. From this vile and wicked world, as the Angels ſeparated <hi>Lot</hi> from <hi>Sodom.</hi>
+               </p>
+               <p n="3">3. From all failings and weak<g ref="char:EOLhyphen"/>neſs, from all afflictions and tempta<g ref="char:EOLhyphen"/>tions, from all Croſſes and grief whatever,</p>
+               <p>This is a pretious ſeparation; but it never ſeparates him from the love of God in Chriſt Jeſus; ſo far is it from this, that it brings him to the <pb n="90" facs="tcp:153472:55"/> immediate and full fruition of God and his love, to ſee him face to face, and ſo to be ſatisfied with his love and likeneſs. Why then ſhould a be<g ref="char:EOLhyphen"/>liever fear death let death be their fear and dread, who are out of Gods favour, and have no intereſt in the love of God in Chriſt Jeſus; but let not the beloved of the Lord fear it, which is ſo much their friend (be<g ref="char:EOLhyphen"/>cauſe God loves them) as to bring them into the boſome of his love and to a preſent and perfect Union with himſelf, which was the reaſon why <hi>Job</hi> ſo little feared it, and St. <hi>Paul</hi> ſo
+<note place="margin">Job 3 14, 15. Phil. 1. 23.</note> much d<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ired it, <hi>having a deſire to de<g ref="char:EOLhyphen"/>part, and to be with Chriſt, which is far better yea beſt of all.</hi>
+               </p>
+               <p>
+                  <hi>Uſe</hi> 2. This doctrine ſpeaks ter<g ref="char:EOLhyphen"/>ror to the wicked. You may think it ſtrange that I ſhould draw terror, out of ſo comfortable a truth: but con<g ref="char:EOLhyphen"/>ſider this comfort belongs only to thoſe that are in Chriſt Jeſus; as for thoſe that are out of Chriſt, they are out of the love and favour of <pb n="91" facs="tcp:153472:55"/> God, both in life and in death. For the preſent the caſe of a wicked man is ſad, in death it will be worſe.</p>
+               <p n="1">1. 'Tis ſad in this life, becauſe they live without God, out of the love and favour of God, in a ſtate of enmity and wrath, and all outward bleſſings they injoy are no ſigns of Gods ſpecial love.—</p>
+               <p n="2">2. In death 'tis worſe, 'tis bad and ſad enough to live out of Gods fa<g ref="char:EOLhyphen"/>vour, but worſe and more ſad to dye out of it, for then they dye eternal<g ref="char:EOLhyphen"/>ly, and death to them will be a ſad ſeparation, for it ſeparates them</p>
+               <p n="1">1. From their preſumptuous con<g ref="char:EOLhyphen"/>ceit, hopes and belief of their intereſt in the love and favour of God. What is the hope of the Hypocrite, when God taketh away his Soul. Now he hopes he is in the love of God, but when God by death ſeparates his Soul from his body, he ſeparates him alſo from all his hopes, theſe dye with him, and he and his hopes of being in the love of God periſh together <hi>Prov.</hi> 11. 7.
+<note place="margin">Prov. 11. 7.</note>
+               </p>
+               <p n="2">
+                  <pb n="92" facs="tcp:153472:56"/> 2. Death ſeparates the wicked from that common and general love of God, wherewith he loveth all his creatures, eſpecially mankind; ma<g ref="char:EOLhyphen"/>nifeſted by his patience and long ſufferings by many bleſſings and com<g ref="char:EOLhyphen"/>forts of life, by his ordinances and many Church priviledges, yea and common gifts and graces; now death ſeparates them from this common and general love of God, and all the forenamed fruits of it. Death puts an end to Gods patience, ſeparates them from Gods protection, from all things that were good and comfor<g ref="char:EOLhyphen"/>table to them here in this life, from all Gods ordinances, and from thoſe common graces they have, the oyl which they had in their Lamps goeth out when death comes.</p>
+               <p n="3">3. It ſeparates them not only from this general love of God, and all that good that is in it; but it ſe<g ref="char:EOLhyphen"/>parates them to everlaſting puniſh<g ref="char:EOLhyphen"/>ment from the preſence of the Lord; God will ſay to them then, depart <pb n="93" facs="tcp:153472:56"/> from me I never knew you, I never loved you: Go ye curſed, that ne<g ref="char:EOLhyphen"/>ver had any intereſt in my everlaſting love, into everlaſting fire, prepared for the Devil and for his Angels.—</p>
+               <p>
+                  <hi>Uſe</hi> 3. If death it ſelf cannot ſe<g ref="char:EOLhyphen"/>parate the faithful from the love of God in Chriſt Jeſus, then as you de<g ref="char:EOLhyphen"/>ſire comfort at death, labour to get an intereſt in and an aſſurance of this love. If the arms of Gods love, have once embraced thee, neither death nor Hell can get the thence for ever: the Sanctuary to which thou art fled is inviolate, the rock im<g ref="char:EOLhyphen"/>pregnable, the City invincible, and thou art ſafe layed up to all eterni<g ref="char:EOLhyphen"/>ty. This aſſurance will make thee triumph over death, as an enemy that cannot hurt thee, a Serpent that cannot ſting thee, a privation that cannot deprive thee of Gods love. <hi>O death</hi> (thou maiſt ſay)
+<hi>where is thy ſting, O Grave where is thy Victory?</hi> for neither the one nor the other can ſeparate thee from Gods love. <pb n="94" facs="tcp:153472:57"/> O this will ſweeten death, which is a bitter thing, make death a ſweet ſleep, and the Grave an eaſy Bed to reſt in, when we know that it ſhall not feparate us from, but bring us to the full injoyment of him, who hath loved us, and whom we have loved and longed for. O then ſtrive after this aſſurance in the diligent uſe of all means, ſearch for it, ſeek for it, hear it, pray for it, and wait for it; its worth ſeeking, for if once attain<g ref="char:EOLhyphen"/>ed, you will be ſo far from fearing death, that you will ſay with old <hi>Si<g ref="char:EOLhyphen"/>meon, Lord, mine eyes have ſeen thy</hi>
+                  <note place="margin">Luk. 2. 29, 30.</note> 
+                  <hi>ſalvation,</hi> my Soul is aſſured of thy love, <hi>therefore now let thy Servant de<g ref="char:EOLhyphen"/>part in peace.</hi>
+               </p>
+               <p>And here I may ſet before you, as an example to follow, this pre<g ref="char:EOLhyphen"/>tious Saint, whoſe ſad funerals we now celebrate, who by the uſe of means, ſervent prayer, ſelf examina<g ref="char:EOLhyphen"/>tion, ſearch of the Scriptures, me<g ref="char:EOLhyphen"/>ditation on the promiſes, and long patience had attained this aſſurance, <pb n="95" facs="tcp:153472:57"/> this full and certain perſwaſion of Gods love; for when death appro<g ref="char:EOLhyphen"/>ched ſhe could ſay, <hi>I know in whom I have believed, and I go to my God and Father;</hi> that the time of her re<g ref="char:EOLhyphen"/>demption was at hand, redemption from pain and ſickneſs, from ſor<g ref="char:EOLhyphen"/>row and fin. It is not (indeed) my manner often in this place to make Encomiums of the dead; and the Jews have a ſaying, that <hi>non facien<g ref="char:EOLhyphen"/>da ſunt monumenta juſtis,</hi> monuments are not to be made for the righteous, whoſe words and works are their beſt monuments, and which praiſe (as the righteous man) ſo the ver<g ref="char:EOLhyphen"/>tuous woman in the Gates. <hi>Prov.</hi> 31. 31. In this reſpect our deceaſed
+<note place="margin">Pro. 31. 31.</note> friend needs no monument to per<g ref="char:EOLhyphen"/>petuate the memory of her worth; Her own works will Publiſh her praiſe to poſterity: Yet that I may not ſeem, by ſilence, to bury her vertues with her Aſhes, give me leave for a few words, and that for theſe two reaſons,</p>
+               <p n="1">
+                  <pb n="96" facs="tcp:153472:58"/> 1. That God may have the glory, whilſt we ſhew forth the praiſes of this Saint, whom he long ſince cal<g ref="char:EOLhyphen"/>led from darkneſs to light in his King<g ref="char:EOLhyphen"/>dom of grace, and hath now tran<g ref="char:EOLhyphen"/>ſlated into his Kingdom of Glory.</p>
+               <p n="2">2. That the world may have the benefit of ſo worthy a pattern and example. And though I might in<g ref="char:EOLhyphen"/>large much on this ſubject, yet take what I ſhall ſay of her in a few words.</p>
+               <p n="1">1. More generally.</p>
+               <p>She was richly adorned with thoſe graces, wherewith the holy women of old were adorned, of which St. <hi>Peter</hi> ſpeaks in 1
+<hi>Pet.</hi> 3. from the <hi>v.</hi> 1.
+<note place="margin">1 Pet. 3. 1. ad 7.</note> to 7. Recount thoſe worthy women, recorded in ſacred ſtory, Obedient <hi>Sara,</hi> modeſt <hi>Rebecca,</hi> Devout <hi>Han<g ref="char:EOLhyphen"/>na,</hi> lovely <hi>Elizabeth,</hi> and <hi>Dorcas</hi> full of good works, and ſhe was all theſe; ſhe was excellent in all thoſe ver<g ref="char:EOLhyphen"/>tues and graces, commendable in them, what Saint do you read of in all the book of God, which in ſome grace or other ſhe did not re<g ref="char:EOLhyphen"/>ſemble? <pb n="97" facs="tcp:153472:58"/> ſhe lived and dyed a daugh<g ref="char:EOLhyphen"/>ter of
+<hi>Abraham,</hi> and is now (no doubt) at reſt in <hi>Abrahams</hi> boſome.</p>
+               <p n="2">2. But more particularly. Con<g ref="char:EOLhyphen"/>ſider her both in her relative and perſonal capacity.</p>
+               <p n="1">1. In her relative capacity, and here you might behold her (1) a moſt Chaſte, Loyal, loving, and (according to her matrimonial ingagement and duty) an obedient wife, as her lo<g ref="char:EOLhyphen"/>ving husband ſurvives to teſtifie. (2) Conſider her as a Mother and a Miſtreſs, and ſhe was exemplary in theſe relations. Her government was made up of ſweetneſs and gra<g ref="char:EOLhyphen"/>vity; ſweetneſs without levity or remiſneſs; and gravity without bit<g ref="char:EOLhyphen"/>terneſs or ſeverity. There was no ſeverity in her diſciplines, ſave what was in the pattern ſhe Propoſed to them in her converſation, and in<g ref="char:EOLhyphen"/>deed ſhe was ſeverely good. Her care was that her family might know God and Jeſus Chriſt, <hi>whom to know</hi>
+                  <note place="margin">Joh. 17. 3d</note> 
+                  <hi>is life eternal:</hi> She was of a <hi>Joſhuah</hi> 
+                  <pb n="98" facs="tcp:153472:59"/> like reſolution, <hi>as for me and my houſe we will ſerve the Lord.</hi> She thought it not enough to go to Heaven a<g ref="char:EOLhyphen"/>lone, but laboured to carry as many as ſhe could with her, eſpecially thoſe of her own houſe. By Cate<g ref="char:EOLhyphen"/>chiſing and inſtructing them, ſhe in<g ref="char:EOLhyphen"/>deavoured their converſion, and to bring them to a ſaving knowledge of Jeſus Chriſt; as well knowing that her Childrens, and Servants Souls were as pretious to God as her own, and coſt Jeſus Chriſt as much blood to redeem. You that are Gover<g ref="char:EOLhyphen"/>nours of families, labour to imitate her in this. 3. As a friend and neigh<g ref="char:EOLhyphen"/>bour; ſhe was of a moſt ſweet ob<g ref="char:EOLhyphen"/>liging Converſe, beloved of all that knew her; her large bounty and charity, and offices of love in that kind, made her highly eſteemed of all the poor in the place where ſhe lived, which they teſtified by their bitter lamentation for her, when ſhe dyed; what company ſoever ſhe was in, ſhe retained her Chriſtian <pb n="99" facs="tcp:153472:59"/> modeſty and gravity, and would never talk vainly or frothily; nor ſhew her ſelf ſometimes holly and ſometimes prophane, to pleaſe the company, but her words were (as thoſe preſent were fit to receive them) ſavoury and tending to edi<g ref="char:EOLhyphen"/>fication. I might inlarge in theſe her relative excellencys: but a word or two of her.</p>
+               <p n="2">2. In her perſonal capacity, be<g ref="char:EOLhyphen"/>cauſe I haſten; and her, all that knew her might obſerve her holi<g ref="char:EOLhyphen"/>neſs, meekneſs, love, faith and pa<g ref="char:EOLhyphen"/>tience were eminent. She made Religion her buſineſs: the common Sanctity of the world would not ſerve her turn, which is only Civility and Morality; She out went the Scribes and Phariſeeſsin righteouſneſs, and walked according to the pattern, her Saviour had ſet before her. She wore the comely garment of an holy profeſſion, without any viſible ſpot, forgetting the things that were be<g ref="char:EOLhyphen"/>hind and preſſing towards the mark,
+<pb n="100" facs="tcp:153472:60"/> for the prize of the high calling of God in Chriſt Jeſus. In her meek<g ref="char:EOLhyphen"/>neſs ſhe reſembled <hi>Moſes;</hi> this or<g ref="char:EOLhyphen"/>nament of a meek and quiet Spirit rendred her amiable in the eyes of God and man. Her love was tranſ<g ref="char:EOLhyphen"/>cendent; to God whom ſhe loved ſuparlatively, to Chriſt whom ſhe loved for his Perſon, as well, as por<g ref="char:EOLhyphen"/>tion, for what he was, as well, as for what he had, ſhe beheld him with the ſpouſes eye, fairer then the Children of men, the chiefeſt of ten thouſand, altogether lovely and pretious to her Soul. Her love was great to the publique Ordinances, to all Gods Miniſters, and to all others in whom ſhe beheld any thing of Chriſt, ſhe dare not but love them for his ſake.</p>
+               <p>Her faith and patience were al<g ref="char:EOLhyphen"/>ways viſible in their fruits, but more eſpecially in the time of her laſt ſickneſs; keeping her Spirit quiet and ſteddy, amidſt all thoſe billows that beat upon her in her <pb n="101" facs="tcp:153472:60"/> paſſage from Earth to Heaven; ſo that all her afflictions were but the trials and triumph of her patience and faith, by the exerciſe of which graces ſhe at laſt came off a conque<g ref="char:EOLhyphen"/>rour, through Chriſt that loved her, and hath her faith and patience re<g ref="char:EOLhyphen"/>warded with a full and joyful frui<g ref="char:EOLhyphen"/>tion of her beloved in his Kingdom and Glory. I might inlarge farther, but I forbear; this is ſhe, whom we have loſt, and Oh what a loſs, do we all ſuſtain! One hath loſt a lo<g ref="char:EOLhyphen"/>ving comfort, others a tender Mo<g ref="char:EOLhyphen"/>ther, and all of us a choiſe and faith<g ref="char:EOLhyphen"/>ful friend and Neighbour: and what ſhall we doe? ſhall we now give up our ſelves to ſorrow? No, or ſhall we make it our work to forget her, whom we cannot recal? No neither, but let us remember her, ſo as to imitate her, and be followers of her. O that all that hear of her would imitate her, that all you, that knew her, would follow her in that pat<g ref="char:EOLhyphen"/>tern ſhe hath given you: Eſpecially
+<pb n="102" facs="tcp:153472:61"/> you that are her near and dear re<g ref="char:EOLhyphen"/>lations, do you remember her ſo, as to be followers of her, wherein ſhe was a follower of Chriſt. Me<g ref="char:EOLhyphen"/>thinks I hear her calling to you out of Heaven (where her triumphant Soul is placed, amongſt the Spirits of juſt men made perfect) as ſome<g ref="char:EOLhyphen"/>times her Lord, and ours, beſpake his Deſciples, ſaying I have given you an example, that you ſhould doe as I have done. Now the Lord grant that you and all of us, may be followers of her, and all other the Saints of God, who were fol<g ref="char:EOLhyphen"/>lowers of Chriſt; that we at laſt with them and her may alſo inherit the promiſes. </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153472:61"/>
+            <pb facs="tcp:153472:62" rendition="simple:additions"/>
+            <pb facs="tcp:153472:62"/>
+         </div>
+      </body>
+   </text>
+</TEI>
